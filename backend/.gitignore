@@ -1,4 +1,27 @@
+# Virtual Environment
 venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
 .env
-Data/
-Maintenance/
+
+# Research Data & FAISS Store
+Data/research_output/
+Data/faiss_store/
+Data/scrape_source.json
+
+# Maintenance & Locks
+Maintenance/status_file.lock
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
