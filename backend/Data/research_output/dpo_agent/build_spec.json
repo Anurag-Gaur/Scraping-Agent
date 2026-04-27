@@ -1,0 +1,82 @@
+{
+  "requirement": "DPO agent",
+  "build_spec": {
+    "agent_name": "Data Protection Officer Agent",
+    "purpose": "To automate and assist with data protection tasks and compliance",
+    "target_user": "Data Protection Officers, Compliance Teams, and Organizations handling sensitive data",
+    "core_capabilities": [
+      {
+        "capability": "Data Mapping",
+        "description": "Automate data mapping to identify and categorize personal data"
+      },
+      {
+        "capability": "Compliance Monitoring",
+        "description": "Continuously monitor data processing activities for compliance with regulations like GDPR, CCPA, etc."
+      },
+      {
+        "capability": "Incident Response",
+        "description": "Assist in responding to data breaches and incidents by providing guidance and automating tasks"
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Data Discovery",
+        "detail": "Identify and classify personal data across the organization"
+      },
+      {
+        "step": 2,
+        "action": "Compliance Assessment",
+        "detail": "Evaluate current data processing practices against relevant regulations"
+      },
+      {
+        "step": 3,
+        "action": "Risk Mitigation",
+        "detail": "Recommend and implement measures to mitigate risks associated with non-compliance"
+      }
+    ],
+    "integrations": [
+      {
+        "system": "CRM Systems",
+        "purpose": "To access and manage customer data"
+      },
+      {
+        "system": "HR Systems",
+        "purpose": "To manage employee data and ensure compliance"
+      },
+      {
+        "system": "Cloud Storage",
+        "purpose": "To monitor and secure data stored in cloud services"
+      }
+    ],
+    "data_inputs": [
+      "Personal Data Records",
+      "Data Processing Activities",
+      "Compliance Requirements"
+    ],
+    "data_outputs": [
+      "Data Maps",
+      "Compliance Reports",
+      "Incident Response Plans"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Transformers-based models for natural language understanding and generation",
+      "orchestration": "Workflow management tools like Apache Airflow or Zapier",
+      "database": "Relational databases like MySQL or PostgreSQL for storing structured data",
+      "integrations": [
+        "APIs for CRM, HR, and Cloud Storage systems"
+      ]
+    },
+    "build_complexity": "high",
+    "estimated_build_days": 120,
+    "what_competitors_have": "Basic automation capabilities for data protection tasks, but lack advanced AI-driven insights and compliance monitoring",
+    "our_differentiation": "Advanced AI capabilities for predictive compliance monitoring, automated risk mitigation, and personalized data protection recommendations"
+  },
+  "competitor_summary": {
+    "zbrain": "Focuses on Kubernetes and container orchestration, lacking direct DPO agent capabilities",
+    "servicenow": "Provides IT service management tools but doesn't specifically address DPO needs",
+    "automationanywhere": "Offers automation capabilities but requires customization for DPO tasks",
+    "uipath": "Provides RPA solutions that can be adapted for DPO tasks but lacks native compliance features",
+    "others": "Workato offers integration and automation capabilities that could be leveraged for DPO tasks with customization"
+  }
+}

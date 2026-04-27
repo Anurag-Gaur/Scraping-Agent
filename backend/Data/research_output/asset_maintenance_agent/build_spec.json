@@ -1,0 +1,91 @@
+{
+  "requirement": "asset maintenance agent",
+  "build_spec": {
+    "agent_name": "AssetGenie",
+    "purpose": "Automate asset maintenance tasks, provide real-time monitoring, and predictive maintenance insights to reduce downtime and increase overall asset efficiency",
+    "target_user": "Facilities managers, maintenance teams, and asset owners",
+    "core_capabilities": [
+      {
+        "capability": "Predictive Maintenance",
+        "description": "Use machine learning algorithms to analyze sensor data and predict potential asset failures"
+      },
+      {
+        "capability": "Real-time Monitoring",
+        "description": "Track asset performance and health in real-time, enabling swift response to issues"
+      },
+      {
+        "capability": "Automated Work Order Generation",
+        "description": "Create and assign work orders to maintenance teams based on predicted or detected issues"
+      },
+      {
+        "capability": "Inventory Management",
+        "description": "Track and manage spare parts and materials, ensuring timely availability for maintenance tasks"
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Data Ingestion",
+        "detail": "Collect and process data from various sources, including sensors, maintenance records, and operator feedback"
+      },
+      {
+        "step": 2,
+        "action": "Data Analysis",
+        "detail": "Apply machine learning algorithms to analyze data, detect patterns, and predict potential issues"
+      },
+      {
+        "step": 3,
+        "action": "Alert and Notification",
+        "detail": "Send alerts and notifications to maintenance teams and stakeholders in case of predicted or detected issues"
+      },
+      {
+        "step": 4,
+        "action": "Work Order Generation",
+        "detail": "Automatically generate and assign work orders to maintenance teams based on predicted or detected issues"
+      }
+    ],
+    "integrations": [
+      {
+        "system": "CMMS (Computerized Maintenance Management System)",
+        "purpose": "Integrate with existing CMMS to access maintenance records and schedules"
+      },
+      {
+        "system": "ERP (Enterprise Resource Planning)",
+        "purpose": "Integrate with ERP to access inventory management and procurement systems"
+      },
+      {
+        "system": "SCADA (Supervisory Control and Data Acquisition)",
+        "purpose": "Integrate with SCADA to access real-time sensor data and control systems"
+      }
+    ],
+    "data_inputs": [
+      "Sensor data",
+      "Maintenance records",
+      "Operator feedback",
+      "Inventory levels"
+    ],
+    "data_outputs": [
+      "Predictive maintenance insights",
+      "Real-time monitoring data",
+      "Automated work orders",
+      "Inventory management reports"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Transformers-based architecture",
+      "orchestration": "Apache Airflow or Zapier",
+      "database": "Time-series database (e.g., InfluxDB) and relational database (e.g., MySQL)",
+      "integrations": [
+        "API-based integrations with CMMS, ERP, and SCADA systems"
+      ]
+    },
+    "build_complexity": "high",
+    "estimated_build_days": 120,
+    "what_competitors_have": "Workato offers an automation platform with AI-powered workflow automation, while Automation Anywhere provides an RPA platform with AI-powered automation capabilities",
+    "our_differentiation": "Our AssetGenie agent offers a unique combination of predictive maintenance, real-time monitoring, and automated work order generation, tailored to the specific needs of asset maintenance teams"
+  },
+  "competitor_summary": {
+    "workato": "Offers an automation platform with AI-powered workflow automation, but lacks specific focus on asset maintenance",
+    "automation_anywhere": "Provides an RPA platform with AI-powered automation capabilities, but has limited capabilities in predictive maintenance and real-time monitoring",
+    "others": "Other competitors, such as UiPath and Blue Prism, offer RPA platforms with varying degrees of AI-powered automation capabilities, but may not have the same level of focus on asset maintenance as our proposed solution"
+  }
+}

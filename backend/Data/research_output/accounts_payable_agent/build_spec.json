@@ -1,0 +1,77 @@
+{
+  "requirement": "accounts payable agent",
+  "build_spec": {
+    "agent_name": "AP Agent",
+    "purpose": "Automate accounts payable processes, including invoice processing, payment processing, and vendor management",
+    "target_user": "Accounting and finance teams",
+    "core_capabilities": [
+      {
+        "capability": "Invoice Processing",
+        "description": "Extract relevant information from invoices, such as vendor name, invoice number, and amount due"
+      },
+      {
+        "capability": "Payment Processing",
+        "description": "Generate payments to vendors based on approved invoices and payment terms"
+      },
+      {
+        "capability": "Vendor Management",
+        "description": "Maintain a database of vendors, including contact information and payment history"
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Invoice Receipt",
+        "detail": "Receive and extract relevant information from invoices"
+      },
+      {
+        "step": 2,
+        "action": "Invoice Approval",
+        "detail": "Route invoices for approval based on predefined rules and workflows"
+      },
+      {
+        "step": 3,
+        "action": "Payment Processing",
+        "detail": "Generate payments to vendors based on approved invoices and payment terms"
+      }
+    ],
+    "integrations": [
+      {
+        "system": "ERP System",
+        "purpose": "Integrate with ERP system to retrieve vendor information and update payment history"
+      },
+      {
+        "system": "Banking System",
+        "purpose": "Integrate with banking system to generate payments to vendors"
+      }
+    ],
+    "data_inputs": [
+      "Invoices",
+      "Vendor Information",
+      "Payment Terms"
+    ],
+    "data_outputs": [
+      "Payment History",
+      "Vendor Information",
+      "Invoice Status"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Transformers-based language model",
+      "orchestration": "Workflow management tool, such as Apache Airflow or Zapier",
+      "database": "Relational database management system, such as MySQL or PostgreSQL",
+      "integrations": [
+        "APIs for ERP and banking systems"
+      ]
+    },
+    "build_complexity": "medium",
+    "estimated_build_days": 120,
+    "what_competitors_have": "Basic invoice processing and payment processing capabilities",
+    "our_differentiation": "Advanced workflow management and vendor management capabilities, as well as integration with ERP and banking systems"
+  },
+  "competitor_summary": {
+    "zbrain": "No relevant information found",
+    "relevanceai": "No relevant information found",
+    "crewai": "No relevant information found",
+    "others": "HighRadius offers autonomous finance solutions for accounts payable, but with limited workflow management and vendor management capabilities"
+  }
+}

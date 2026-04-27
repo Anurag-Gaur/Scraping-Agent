@@ -1,0 +1,82 @@
+[
+  {
+    "label": "hf_papers",
+    "url": "https://huggingface.co/papers",
+    "category": "research"
+  },
+  {
+    "label": "aws_ai",
+    "url": "https://aws.amazon.com/ai/",
+    "category": "research"
+  },
+  {
+    "label": "anthropic_news",
+    "url": "https://www.anthropic.com/news",
+    "category": "research"
+  },
+  {
+    "label": "groq_blog",
+    "url": "https://groq.com/blog/",
+    "category": "research"
+  },
+  {
+    "label": "openai_blog",
+    "url": "https://openai.com/blog",
+    "category": "research"
+  },
+  {
+    "label": "google_ai_blog",
+    "url": "https://ai.googleblog.com/",
+    "category": "research"
+  },
+  {
+    "label": "venturebeat_ai",
+    "url": "https://venturebeat.com/category/ai/",
+    "category": "research"
+  },
+  {
+    "label": "techcrunch_ai",
+    "url": "https://techcrunch.com/tag/artificial-intelligence/",
+    "category": "research"
+  },
+  {
+    "label": "zbrain_agents",
+    "url": "https://zbrain.ai/ai-agents/",
+    "category": "competitor"
+  },
+  {
+    "label": "zbrain_builder",
+    "url": "https://zbrain.ai/zbrain-builder/",
+    "category": "competitor"
+  },
+  {
+    "label": "relevance_ai",
+    "url": "https://relevanceai.com/agents",
+    "category": "competitor"
+  },
+  {
+    "label": "crewai_home",
+    "url": "https://www.crewai.com/",
+    "category": "competitor"
+  },
+  {
+    "label": "make_ai",
+    "url": "https://www.make.com/en/ai",
+    "category": "competitor"
+  },
+  {
+    "label": "zapier_ai",
+    "url": "https://zapier.com/blog/ai-agents/",
+    "category": "competitor"
+  },
+  {
+    "label": "highradius_ai",
+    "url": "https://www.highradius.com/ai/",
+    "category": "industry"
+  },
+  {
+    "label": "celonis_blog",
+    "url": "https://www.celonis.com/blog/",
+    "category": "industry"
+  }
+]

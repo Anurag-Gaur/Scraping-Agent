@@ -1,0 +1,4 @@
+# DEPRECATED: All requirements have been merged into ../requirements.txt
+# Please use: pip install -r ../requirements.txt
+#
+# This file is kept for reference only.

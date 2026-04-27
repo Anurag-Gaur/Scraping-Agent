@@ -1,0 +1,36 @@
+# ─── Core ───────────────────────────────────────────────────────────
+anthropic>=0.25.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+python-docx>=0.8.11
+
+# ─── Search & Scraping ──────────────────────────────────────────────
+duckduckgo-search>=5.0.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0           # faster BS4 parser (optional but recommended)
+playwright>=1.40.0    # for zbrain_scraper
+
+# ─── Data handling ──────────────────────────────────────────────────
+pandas>=2.0.0
+python-dateutil>=2.8.2
+numpy>=1.24.0
+
+# ─── RAG / Vector store ─────────────────────────────────────────────
+faiss-cpu>=1.7.4                  # FAISS index (CPU build, no GPU needed)
+sentence-transformers>=2.6.0      # all-MiniLM-L6-v2 embeddings (~90 MB download on first run)
+
+# ─── PostgreSQL agent storage (Railway) ──────────────────────────────
+psycopg2-binary>=2.9.0            # PostgreSQL adapter for Python
+
+# ─── Selenium / browser automation ──────────────────────────────────
+selenium>=4.18.0
+undetected-chromedriver>=3.5.5
+webdriver-manager>=4.0.1
+
+# ─── System utilities ───────────────────────────────────────────────
+psutil>=5.9.0
+
+# ─── REST API (FastAPI) ──────────────────────────────────────────────
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0

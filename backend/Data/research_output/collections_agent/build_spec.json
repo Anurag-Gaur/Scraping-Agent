@@ -1,0 +1,78 @@
+{
+  "requirement": "collections agent",
+  "build_spec": {
+    "agent_name": "Collections Agent",
+    "purpose": "Automate collections processes, track performance, and analyze conversations to improve agent efficiency",
+    "target_user": "Collections teams, customer support, and operations managers",
+    "core_capabilities": [
+      {
+        "capability": "Natural Language Processing",
+        "description": "Understand and respond to customer inquiries and concerns"
+      },
+      {
+        "capability": "Conversation Flow Management",
+        "description": "Automate conversation flows to qualify leads, schedule demos, and resolve customer issues"
+      },
+      {
+        "capability": "Data Analysis and Reporting",
+        "description": "Provide detailed analytics and insights to improve agent performance and optimize collections processes"
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Customer Inquiry",
+        "detail": "Receive and process customer inquiries via multiple channels (e.g., phone, email, chat)"
+      },
+      {
+        "step": 2,
+        "action": "Conversation Flow",
+        "detail": "Automate conversation flows to resolve customer issues, qualify leads, and schedule demos"
+      },
+      {
+        "step": 3,
+        "action": "Data Analysis and Reporting",
+        "detail": "Provide detailed analytics and insights to improve agent performance and optimize collections processes"
+      }
+    ],
+    "integrations": [
+      {
+        "system": "CRM",
+        "purpose": "Integrate with CRM systems to access customer data and history"
+      },
+      {
+        "system": "ERP",
+        "purpose": "Integrate with ERP systems to access financial data and transactions"
+      }
+    ],
+    "data_inputs": [
+      "Customer data",
+      "Transaction history",
+      "Collections processes"
+    ],
+    "data_outputs": [
+      "Collections performance metrics",
+      "Customer satisfaction ratings",
+      "Agent efficiency metrics"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Transformers-based language models (e.g., BERT, RoBERTa)",
+      "orchestration": "Workflow orchestration tools (e.g., Apache Airflow, Zapier)",
+      "database": "Relational databases (e.g., MySQL, PostgreSQL) or NoSQL databases (e.g., MongoDB, Cassandra)",
+      "integrations": [
+        "API integrations with CRM and ERP systems",
+        "Webhooks for real-time data exchange"
+      ]
+    },
+    "build_complexity": "medium",
+    "estimated_build_days": 60,
+    "what_competitors_have": "Competitors have basic collections agent capabilities, but lack advanced features like natural language processing and conversation flow management",
+    "our_differentiation": "Our collections agent will have advanced features like natural language processing, conversation flow management, and data analysis and reporting, making it a more comprehensive and efficient solution"
+  },
+  "competitor_summary": {
+    "ServiceNow": "ServiceNow has a basic collections agent capability, but it is not as comprehensive as our proposed solution",
+    "UiPath": "UiPath has a more advanced collections agent capability, but it lacks the natural language processing and conversation flow management features of our proposed solution",
+    "AutomationAnywhere": "AutomationAnywhere has a robust collections agent capability, but it is more focused on automation and lacks the data analysis and reporting features of our proposed solution",
+    "others": "Other competitors have basic collections agent capabilities, but they lack the advanced features and comprehensiveness of our proposed solution"
+  }
+}

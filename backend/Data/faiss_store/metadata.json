@@ -1,0 +1,1046 @@
+[
+  {
+    "hash": "2f5590a7dfff1a71a987c4bb5f56bc72",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "[Autonomous Finance for O2C, Treasury & R2R | HighRadius]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:58356\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xd3c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xd3c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xb12100]\n\tundetected_chromedriver!(No symbol) [0xb4d752]\n\tundetected_chromedriver!(No symbol) [0xb4c77c]\n\tundetected_chromedriver!(No symbol) [0xb428a5]\n\tundetected_chromedriver!(No symbol) [0xb426c6]\n\tu"
+  },
+  {
+    "hash": "f4bc704754bf82107976a9590730d73c",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "]\n\tundetected_chromedriver!(No symbol) [0xb428a5]\n\tundetected_chromedriver!(No symbol) [0xb426c6]\n\tundetected_chromedriver!(No symbol) [0xb89dff]\n\tundetected_chromedriver!(No symbol) [0xb89617]\n\tundetected_chromedriver!(No symbol) [0xb7d9b6]\n\tundetected_chromedriver!(No symbol) [0xb50339]\n\tundetected_chromedriver!(No symbol) [0xb510f4]\n\tundetected_chromedriver!GetHandleVerifier [0xf9fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xf9b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xfb9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xd57188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xd5f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xd45138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xd45302+19742]\n\tundetected_chromedriver!GetHandleVerif"
+  },
+  {
+    "hash": "4d48badbc43823fbafa88944cbd6da24",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "undetected_chromedriver!GetHandleVerifier [0xd45302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xd2e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[HighRadius - 2026 Company Profile & Team - Tracxn]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:49988\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x4dc733+10b73]\n\tundetected_chromedriver!"
+  },
+  {
+    "hash": "9e92aba9065309e810a8e229b8529e00",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "on\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x4dc733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x4dc864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x2b2100]\n\tundetected_chromedriver!(No symbol) [0x2ed752]\n\tundetected_chromedriver!(No symbol) [0x2ec77c]\n\tundetected_chromedriver!(No symbol) [0x2e28a5]\n\tundetected_chromedriver!(No symbol) [0x2e26c6]\n\tundetected_chromedriver!(No symbol) [0x329dff]\n\tundetected_chromedriver!(No symbol) [0x329617]\n\tundetected_chromedriver!(No symbol) [0x31d9b6]\n\tundetected_chromedriver!(No symbol) [0x2f0339]\n\tundetected_chromedriver!(No symbol) [0x2f10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x73fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x73b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x759bd5+28e015]\n\tu"
+  },
+  {
+    "hash": "979c1d51a49cc0e155dcd60dc66bf72b",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "!GetHandleVerifier [0x73b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x759bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x4f7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x4ff23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x4e5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x4e5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x4ce48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[HighRadius | Company Overview & News - Forbes]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52874\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent brow"
+  },
+  {
+    "hash": "054429b82780ffb8b33e4550145d2a45",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "from session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xe2c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xe2c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xc02100]\n\tundetected_chromedriver!(No symbol) [0xc3d752]\n\tundetected_chromedriver!(No symbol) [0xc3c77c]\n\tundetected_chromedriver!(No symbol) [0xc328a5]\n\tundetected_chromedriver!(No symbol) [0xc326c6]\n\tundetected_chromedriver!(No symbol) [0xc79dff]\n\tundetected_chromedriver!(No symbol) [0xc79617]\n\tundetected_chromedriver!(No symbol) [0xc6d9b6]\n\tundetec"
+  },
+  {
+    "hash": "2a542ee8635bfe7f33e6eb0637ec6297",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "etected_chromedriver!(No symbol) [0xc79617]\n\tundetected_chromedriver!(No symbol) [0xc6d9b6]\n\tundetected_chromedriver!(No symbol) [0xc40339]\n\tundetected_chromedriver!(No symbol) [0xc410f4]\n\tundetected_chromedriver!GetHandleVerifier [0x108fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x108b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x10a9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xe47188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xe4f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xe35138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xe35302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xe1e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamed"
+  },
+  {
+    "hash": "dfc7290afc65c10a45d36b50e5778c6d",
+    "requirement": "accounts payable agent",
+    "platform": "highradius",
+    "text": "nk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "5c12fb2ffe20da2f7511f7a6fce1c984",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "[搜狗拼音v15.11 (2689)&五笔v5.5f (2585)输入法精简绿化版 ...]\n官方bilibili\nWindows破解入门\nAndroid逆向入门\n\n【网络诊断修复工具】\n切换到窄版\n\n请 \n登录\n 后使用快捷导航\n没有帐号？\n注册[Register] \n\n快捷导航\n\n门户\n吾爱破解门户\n网站\n吾爱破解论坛\n新帖\n吾爱破解论坛新帖导读\n专辑\n吾爱破解文章专辑列表\n排行榜\n吾爱破解排行榜\n总版规\n吾爱破解论坛总版规\n爱盘\n爱盘，在线破解工具包，实时提供最新逆向资源！\n帮助\n吾爱破解论坛常见问题解答中心\n\n关注人的新帖\n技术新帖合集\n最新软件合集\n原创发布新贴\n脱壳破解新帖\n移动安全新帖\n病毒分析新帖\n软件调试新贴\n动画发布新帖\n编程语言新帖\n邀请好友注册\nTools\n吾爱破解Logo\n吾爱破解桌面壁纸\n吾爱破解视频教程\n吾爱破解论坛精华集\n吾爱破解专用版Ollydbg\n处理举报贴\n处理站务贴\n处理福利贴\n处理水区贴\n办公区\n证据区\n\n原创发布区\n\n精品软件区\n\n逆向资源区\n\n水漫金山区\n\n病毒救援区\n\n福利经验区\n\n脱壳破解区\n\n移动安全区\n\n病毒分析区\n\n编程语言区\n\n动画发布区\n\n安全工具区\n\n站点公告\n\n站点导航\n\n站点总版规\n\n申请专区\n\n招聘求职\n\n违规怎么办\n\n站点帮助\n\n站务处理\n\n本版\n用户\n\n挣悬赏\n\n未完结\n\n撤销悬赏\n\n吾爱破解 - 52pojie.cn\n»\n网站\n \n›\n \n【 软件安全 】\n \n›\n \n『精品软件区』\n \n›\n \n搜狗拼音v15.11(2689)&五笔v5.5f(2585)输入法精简绿化 ...\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 102\n / 102 页\n下一页\n\n返回列表\n\n查看:\n \n40820\n|\n回复:\n \n1017\n\n[Windows]\n\n搜狗拼音v15.11(2689)&五笔v5.5f(2"
+  },
+  {
+    "hash": "64b0199c9ed5ab3f16a2eb37493ae16f",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "7\n8\n9\n10\n... 102\n / 102 页\n下一页\n\n返回列表\n\n查看:\n \n40820\n|\n回复:\n \n1017\n\n[Windows]\n\n搜狗拼音v15.11(2689)&五笔v5.5f(2585)输入法精简绿化版【2025.12.04更新】\n\n \n\n \n\n[复制链接]\n\n \n\nnaixubao\n\nnaixubao\n\n当前离线\n\n好友\n\n阅读权限\n40\n\n听众\n\n最后登录\n1970-1-1\n\n电梯直达\n\n楼主\n\nnaixubao\n\n发表于\n 2025-10-21 09:28\n\n 本帖最后由 naixubao 于 2025-12-4 10:54 编辑 \n\n软件简介：\n\n2025年，搜狗输入法迎来全面升级，AI智能预测、跨场景适配、个性化体验等功能大幅优化。\n2025年搜狗输入法核心升级亮点：\n\r\n深度语义理解：通过AI算法预测用户输入意图，如输入“明天天气”，在候选栏点击一键查询天气。\n实时翻译增强：支持中英日韩等14种语言互译，聊天场景中直接输入中文自动转换为目标语言。\n\n语音输入优化：支持11种方言，方言覆盖粤语、四川话等，嘈杂环境下的语音也可以准备识别。\n\nAI键盘布局：支持用户上传照片，一键生成AI键盘皮肤。\n\n表情包生成器：选择模版，上传你的照片自动生成趣味表情包。\n\n作为连续多年用户满意度第一的输入工具，2025版搜狗输入法通过三大升级重新定义高效输入：\n\r\n更智能：AI深度融入输入全流程，预测准确率行业领先；\n\r\n更安全：本地模式+权限精细管理，杜绝隐私泄露风险；\n\r\n更人性化：从游戏玩家到视障用户，全面覆盖多场景需求。\n\n官方版本：\n\n搜狗输入法\n官方最新版\n15.11正式版\n\n统一下载地址：\nhttps://shurufa.sogou.com/windows\n\n适配系统：windows\n下载地址如下\n\n拼音版：\nhttps://ime-sec.gt"
+  },
+  {
+    "hash": "b87747c92b4f94c96c034f9d384ebd27",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "新版\n15.11正式版\n\n统一下载地址：\nhttps://shurufa.sogou.com/windows\n\n适配系统：windows\n下载地址如下\n\n拼音版：\nhttps://ime-sec.gtimg.com/202512041040/fd766cd5f164bdc181f39ebb1a798479/pc/sogou_pinyin_guanwang_15.11.exe\n\n五笔版：\nhttps://ime-sec.gtimg.com/202512041047/b8bfb13c28b7915e49a3beb40986bb7f/pc/dl/gzindex/1760671209/sogou_wubi_5.5g.exe\n\n适配系统：UOS、银河麒麟、中科方德、龙芯、Ubuntu、Ukylin、Deepin下载地址如下\n\nhttps://ime-sec.gtimg.com/202512041041/b638db463c5478724e04cfd6e1591b7a/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb\n\nhttps://ime-sec.gtimg.com/202512041041/5806a1171242ac7f4547e1e40daed61a/pc/dl/gzindex/1680521473/sogoupinyin_4.2.1.145_arm64.deb\n\nhttps://ime-sec.gtimg.com/202512041041/32c0478ae14b95d8914d1f1d19ee5c44/pc/dl/gzindex/1680521156/sogoupinyin_4.2.1.145_mips64el.deb\n\nhttps://ime-sec.gtimg.com/202512041041/ebf04"
+  },
+  {
+    "hash": "00a69e166b896e6e3f76a7bc2a79c317",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "/gzindex/1680521156/sogoupinyin_4.2.1.145_mips64el.deb\n\nhttps://ime-sec.gtimg.com/202512041041/ebf0425375176df27c32acd0b1680da7/pc/dl/gzindex/1680521801/sogoupinyin_4.2.1.145_loongarch64.deb\n\n精简版本绿化说明：\n\n1.    试图打造不联网的搜狗拼音输入法精简版；\n\n2.    修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；\n\n3.    用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；\n\n4.    精简 Resource.dll 资源库文件；\n\n5.    默认将属性设置、输入法管理器和符号大全等快捷方式创建到开始菜单；\n\n6.    需通过快捷方式，才能打开 “属性设置”、“输入法管理器”、“符号大全” 窗口；\n\n7.    免安装批处理精简绿化，仅保留核心功能！\n\n8.  官方默认皮肤(修改默认皮肤：_Green\\SogouPY\\env.ini，SkinEnabled=1 ActiveSkinName=简之约)；\n\n9.  去联网、去弹窗、去调用，精简了所有的额外功能组件；\n\n10.  经过精简优化处理，具备用户同步功能，可过检游戏环境，支持静默安装。\n\n2025.10.22日更新\n\n版本号不变，优化脚本适配win11系统25H2提权，完善部份bug。\n\n精简版本\n版本说明：\n\n①   本精简版本由无忧论坛\nBEIKING\n大佬精心制作，在此非常感谢；\n\n②    exe单文件，无词库文件，不支持深色模式，输入法配置保存在搜狗拼音默认路径；\n\n③　选择安装：双击选择路径安装，命令行当前路径自动安装参数：-ai\n\n④　静默安"
+  },
+  {
+    "hash": "a9d88eb2a633cf8f3bcf59d3238f2f95",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "佬精心制作，在此非常感谢；\n\n②    exe单文件，无词库文件，不支持深色模式，输入法配置保存在搜狗拼音默认路径；\n\n③　选择安装：双击选择路径安装，命令行当前路径自动安装参数：-ai\n\n④　静默安装：双击默认路径(%ProgramFiles%)自动安装，适用于 PE 系统；\n\n⑤    安装后，输入模式可以在输入法状态栏的右键菜单中调整。\n\n2025.10.24日更新\n\n①   更新新版本拼音输入法15.10.0.2411，修复部分已知问题；\n\n②   去广告，精简优化，屏蔽检测升级；\n\n③　删除了阻止广告弹窗；删除了所有搜狗广告程序，删除了搜索提示\n，\n 颜文字, 修复器，核心服务\n，\n 网络更新\n，\n辅助工具\n，\n崩溃反馈等组件\n，\n删除了智能输入助手\n，\n图片表情\n，\n皮肤盒子/推荐/flash皮肤等；\n\n④　取消各种干扰提示；\n\n⑤    即使安装了账户同步及扩展下载等联网组件 , 无需防火墙阻止也永不升级。\n\n2025.12.04日更新\n\n修复部份已知问题。\n\n2025.12.04日更新(\n(搜狗拼音输入法精简绿化版v15.11.0.2689)\n\n百度网盘分享\n\n下载链接: \nhttps://pan.baidu.com/s/1iqeXRj6MT4bEz06_-vpbcw\n\r\n提取码: 52pj  \n\n蓝奏云分享\n\n(搜狗拼音v15.9d(2383)&五笔v5.5f(2585)输入法精简绿化版)\n下载链接： \nhttps://wwtr.lanzouw.com/b00yan2uxe\n\n(搜狗拼音v15.9d(2383)&五笔v5.5f(2585)输入法精简绿化版)【2025.10.22更新】\n下载链接： \nhttps://wwtr.lanzouw.com/b00yan5vsd\n\n(搜狗拼音输入法v15.10.0.2411精简绿化版)【2025.10.31更新】下载"
+  },
+  {
+    "hash": "da2220775c896eb404c1c15f21bbb422",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "025.10.22更新】\n下载链接： \nhttps://wwtr.lanzouw.com/b00yan5vsd\n\n(搜狗拼音输入法v15.10.0.2411精简绿化版)【2025.10.31更新】下载链接： \nhttps://wwtr.lanzouw.com/if1s3397z6de\n\n(搜狗拼音输入法v15.10.0.2544精简绿化版)【2025.11.14更新】下载链接： \nhttps://wwtr.lanzouw.com/i8OCb3b130wb\n\n(搜狗拼音输入法v15.11.0.2620精简绿化版)【2025.11.22更新】\n下载链接：\nhttps://wwtr.lanzouw.com/b00yapllsb\n\n(搜狗拼音输入法v15.11.0.2689精简绿化版)【2025.12.04更新】\n下载链接：\nhttps://wwbrr.lanzouw.com/b00yancamd\n\n提取码: 52pj \n\nQQ20251024-181801.png\n\n(26.75 KB, 下载次数: 22)\n\n下载附件\n\n2025-10-24 18:20 上传\n\n1.png\n\n(210.32 KB, 下载次数: 6)\n\n下载附件\n\n2025-10-21 09:25 上传\n\n免费评分\n\n 参与人数 \n328\n吾爱币 \n+303\n\n热心值 \n+293\n\n收起\n\n理由\n\n \ndhdpy\n\n + 1\n\n + 1\n\n热心回复！\n\n \nCK0714\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n倾城丶Cc\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n丿向日葵\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n禹是甜的\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwalm\n\n + 1\n\n谢谢@Thanks！\n\n \n嘿澎鸽在这\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nq"
+  },
+  {
+    "hash": "47468f3a274a9b59b769cc04f863e703",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "很赞同！\n\n \n禹是甜的\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwalm\n\n + 1\n\n谢谢@Thanks！\n\n \n嘿澎鸽在这\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nqqwer\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \ngknight\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n三金钱\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nmmliuliuliu\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nfsck\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nxionghuaxin\n\n + 1\n\n热心回复！\n\n \nfounderyue\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwxkang\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nyellowbest\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nxxutno\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nMP4\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nAzain\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \njtz076198\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nzxxwuai\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \nTyshorm\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \nkown\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nZh4450\n\n + 1\n\n + 1\n\n太需要搜狗的简化版了，现在的官方版简直是一坨shit，一大堆臃肿的功能\n\n \nooodx\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \njungog\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nxdqiangee\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n华夏将军孙武\n\n + 1"
+  },
+  {
+    "hash": "b7896c3308a856d14fda06d40d3e9c10",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "谢谢@Thanks！\n\n \njungog\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nxdqiangee\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n华夏将军孙武\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwoaipojie2\n\n + 1\n\n + 1\n\n我很赞同！\n\n \njsboy\n\n + 1\n\n + 1\n\n热心回复！\n\n \nyuuxxx\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nluffffy\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nAli5634\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n丶Lost\n\n + 1\n\n + 1\n\n很实用，很\n\n \n更有体会v\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nohohxie1992\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nDOrothyOrchids\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n2255\n\n + 2\n\n + 1\n\n谢谢@Thanks！\n\n \nmtc1011\n\n + 1\n\n + 1\n\n热心回复！\n\n \nhababy777\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nunclewangPro\n\n + 1\n\n + 1\n\n鼓励转贴优秀软件安全工具和文档！\n\n \nguwj\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n请勿拍打喂食\n\n + 1\n\n谢谢@Thanks！\n\n \nunrmbplayer\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nqaz9700qaz9700\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nsimmily2024\n\n + 1\n\n谢谢@Thanks！\n\n \nadsl25\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n穿云鹤\n\n + 1\n\n谢谢@Thanks！\n\n \nlizhonghua\n\n + 1"
+  },
+  {
+    "hash": "4f0b988e5ed4f73628fcaa98b0aeeef4",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "+ 1\n\n谢谢@Thanks！\n\n \nadsl25\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n穿云鹤\n\n + 1\n\n谢谢@Thanks！\n\n \nlizhonghua\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \npoaxcb\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nywr516\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nxw2018\n\n + 1\n\n我很赞同！\n\n \nloulan999\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nmrjlcga\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nttz168\n\n + 1\n\n热心回复！\n\n \njxluhui\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nWyljj\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nbug321\n\n + 1\n\n + 1\n\n热心回复！\n\n \nbrozer\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n大侠要吃汉堡包\n\n + 1\n\n \n\n---\n\n[搜狗输入法官方版 V0.96 - 吾爱破解 - 52pojie.cn]\n官方bilibili\nWindows破解入门\nAndroid逆向入门\n\n【网络诊断修复工具】\n切换到窄版\n\n请 \n登录\n 后使用快捷导航\n没有帐号？\n注册[Register] \n\n快捷导航\n\n门户\n吾爱破解门户\n网站\n吾爱破解论坛\n新帖\n吾爱破解论坛新帖导读\n专辑\n吾爱破解文章专辑列表\n排行榜\n吾爱破解排行榜\n总版规\n吾爱破解论坛总版规\n爱盘\n爱盘，在线破解工具包，实时提供最新逆向资源！\n帮助\n吾爱破解论坛常见问题解答中心\n\n关注人的新帖\n技术新帖合集\n最新软件合集\n原创发布新贴\n脱壳破解新帖\n移动安全新帖\n病毒分析新帖\n软件调试新贴\n动画发布新帖\n编程语言新帖\n邀请好友注册\nTools\n吾爱破解Logo\n吾爱"
+  },
+  {
+    "hash": "6bb594b635e58f5e921a01960de4fb77",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "解答中心\n\n关注人的新帖\n技术新帖合集\n最新软件合集\n原创发布新贴\n脱壳破解新帖\n移动安全新帖\n病毒分析新帖\n软件调试新贴\n动画发布新帖\n编程语言新帖\n邀请好友注册\nTools\n吾爱破解Logo\n吾爱破解桌面壁纸\n吾爱破解视频教程\n吾爱破解论坛精华集\n吾爱破解专用版Ollydbg\n处理举报贴\n处理站务贴\n处理福利贴\n处理水区贴\n办公区\n证据区\n\n原创发布区\n\n精品软件区\n\n逆向资源区\n\n水漫金山区\n\n病毒救援区\n\n福利经验区\n\n脱壳破解区\n\n移动安全区\n\n病毒分析区\n\n编程语言区\n\n动画发布区\n\n安全工具区\n\n站点公告\n\n站点导航\n\n站点总版规\n\n申请专区\n\n招聘求职\n\n违规怎么办\n\n站点帮助\n\n站务处理\n\n本版\n用户\n\n挣悬赏\n\n未完结\n\n撤销悬赏\n\n吾爱破解 - 52pojie.cn\n»\n网站\n \n›\n \n【 软件安全 】\n \n›\n \n『精品软件区』\n \n›\n \n搜狗输入法官方版 V0.96\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 12\n / 12 页\n下一页\n\n返回列表\n\n查看:\n \n14067\n|\n回复:\n \n118\n\n[Windows]\n\n搜狗输入法官方版 V0.96\n\n \n\n[复制链接]\n\n \n\nOriginalBack\n\nOriginalBack\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n电梯直达\n\n楼主\n\nOriginalBack\n\n发表于\n 2025-11-12 15:57\n\n很久之前的老版本，官方的应该不违规吧，有问题坛主直接跟我说哈喜欢新版本的可以不用看了，实测虽然只能下载V15版本之类新版本的一部分皮肤，但是bug少（不知道论坛让不让发评测，搜狗精简其他版本都试过，还有其他\n\r\n公司的输入法都试过），也不会自动升级，没有广告，没有旺仔，可以登录同步账户，使用皮肤盒子。皮肤能正常使用，如图片右下角。"
+  },
+  {
+    "hash": "aaf2aff6f196140e4814b39399f95dc8",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "是bug少（不知道论坛让不让发评测，搜狗精简其他版本都试过，还有其他\n\r\n公司的输入法都试过），也不会自动升级，没有广告，没有旺仔，可以登录同步账户，使用皮肤盒子。皮肤能正常使用，如图片右下角。\n\r\n通过网盘分享的文件：搜狗输入法v9.6.exe\n\r\n链接: https://pan.baidu.com/s/1J3WFqpGLFADrvU21WPJU1w?pwd=aaqc 提取码: aaqc\n\n微信图片_20251112154331_6_2.jpg\n\n(305.22 KB, 下载次数: 71)\n\n下载附件\n\n2025-11-12 15:44 上传\n\n免费评分\n\n 参与人数 \n19\n吾爱币 \n+18\n\n热心值 \n+15\n\n收起\n\n理由\n\n \n凯gg\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nmuzi5pd\n\n + 1\n\n谢谢@Thanks！\n\n \nlk543121534\n\n + 1\n\n + 1\n\n并不是官方版，没有数字签名，去广告精简优化版，微步云可查\n\n \nguibo1985\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwryyyyy\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n吃瓜鱼\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nCrazyXyu\n\n + 1\n\n我很赞同！\n\n \nweiwei321\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nxiaomorrisandy\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n何少榞\n\n + 1\n\n我很赞同！\n\n \nq7505413\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nbolelinyoujia\n\n + 1\n\n + 1\n\n热心回复！\n\n \n噼咔噼\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nTADYCB\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nbzgx\n\n + 1"
+  },
+  {
+    "hash": "4e969740d49a656ec7952be3022a6b19",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "a\n\n + 1\n\n + 1\n\n热心回复！\n\n \n噼咔噼\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nTADYCB\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nbzgx\n\n + 1\n\n谢谢@Thanks！\n\n \nhbwr123\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n就好好\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nfzwangcq\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nok1358\n\n + 1\n\n谢谢@Thanks！\n\n查看全部评分\n\n分享到朋友圈\n\n发帖前要善用\n【\n论坛搜索\n】\n功能，那里可能会有你要找的答案或者已经有人发布过相同内容了，请勿重复发帖。\n\n回复\n\n举报\n\nljg0009\n\nljg0009\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nljg0009\n\n发表于\n 2025-11-19 09:55\n\n我来补一个\n\r\nhttps://wwuq.lanzouq.com/iTfpn3bjcgre     密码:3gxb\n\n免费评分\n\n 参与人数 \n5\n吾爱币 \n+5\n\n热心值 \n+4\n\n收起\n\n理由\n\n \n一切为心造\n\n + 1\n\n谢谢@Thanks！\n\n \n难飞同学\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nYP981123\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwindbd\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nliuyu2022\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n查看全部评分\n\n 【吾爱破解论坛总版规】 - [让你充分了解吾爱破解论坛行为规则]\n\n回复\n\n举报\n\nescapist9\n\nescapist9\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nescapist9"
+  },
+  {
+    "hash": "c3dae3537f686c369dd2b5754da8affe",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "你充分了解吾爱破解论坛行为规则]\n\n回复\n\n举报\n\nescapist9\n\nescapist9\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nescapist9\n\n发表于\n 2025-11-20 18:02\n\n吾爱破解论坛没有任何官方QQ群，禁止留联系方式，禁止任何商业交易。\n\n蓝奏分流来喽~\n\r\nhttps://wwqf.lanzouw.com/ierNT3bocngf\n\r\n密码:hsiq\n\n免费评分\n\n 参与人数 \n3\n吾爱币 \n+3\n\n热心值 \n+3\n\n收起\n\n理由\n\n \n师匠我老婆\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \ngtk0000\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n咀嚼一颗寂寞\n\n + 1\n\n + 1\n\n我很赞同！\n\n查看全部评分\n\n如何升级？如何获得积分？积分对应解释说明！\n\n回复\n\n举报\n\nxihuanxiazai\n\nxihuanxiazai\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nxihuanxiazai\n\n发表于\n 2025-11-13 16:03\n\n《站点帮助文档》有什么问题来这里看看吧，这里有你想知道的内容！\n\n别的都不怕，就是怕广告弹窗，现在的软件还是那个无耻的样子。多谢发布老版本。\n\n呼吁大家发布原创作品添加吾爱破解论坛标识！\n\n回复\n\n举报\n\naidumu\n\naidumu\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n头像被屏蔽\n\n推荐\n\naidumu\n\n发表于\n 2025-11-13 14:33\n\n提示: \n该帖被管理员或版主屏蔽\n\n如何快速判断一个文件是否为病毒！\n\n回复\n\n举报\n\nemberzhang\n\nemberzhang\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n197"
+  },
+  {
+    "hash": "47cd8826be217d796861d7c6a53f6ded",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "提示: \n该帖被管理员或版主屏蔽\n\n如何快速判断一个文件是否为病毒！\n\n回复\n\n举报\n\nemberzhang\n\nemberzhang\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n4\n#\n\nemberzhang\n\n发表于\n 2025-11-13 13:22\n\n有没别的盘下载？没有度娘会员\n\n回复\n\n举报\n\n北辰歌者I\n\n北辰歌者I\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n5\n#\n\n北辰歌者I\n\n发表于\n 2025-11-13 14:07\n\n更新，用不习惯，又给卸载了，装各旧版本的。\n\n回复\n\n举报\n\ndonghuwenge\n\ndonghuwenge\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n6\n#\n\ndonghuwenge\n\n发表于\n 2025-11-13 14:13\n\n我一直使用搜狗输入法，真的很不错，谢谢分享，下载收藏一个！\n\n回复\n\n举报\n\nfun13579\n\nfun13579\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n7\n#\n\nfun13579\n\n发表于\n 2025-11-13 14:14\n\n这个是不是要设置禁止升级呀？要不然有默认升级到最新版本了\n\n回复\n\n举报\n\nAmei13150\n\nAmei13150\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n8\n#\n\nAmei13150\n\n发表于\n 2025-11-13 14:24\n\n最近电脑右下角搜狗输入法天天弹出广告，试试这款，感谢分享\n\n回复\n\n举报\n\nfila\n\nfila\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n9\n#\n\nfila\n\n发表于\n 2025-11-13 14:39\n\n一般不更新 因为我的电脑"
+  },
+  {
+    "hash": "ffb58dec6075e7f0347e904d7226d3dd",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "举报\n\nfila\n\nfila\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n9\n#\n\nfila\n\n发表于\n 2025-11-13 14:39\n\n一般不更新 因为我的电脑是XP ！用的很好！更新只会越来越慢！跟安卓手机一样！\n\n回复\n\n举报\n\nrihuanshi1986\n\nrihuanshi1986\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n10\n#\n\nrihuanshi1986\n\n发表于\n 2025-11-13 14:45\n\nAmei13150 发表于 2025-11-13 14:24\n\r\n最近电脑右下角搜狗输入法天天弹出广告，试试这款，感谢分享\n\n虽然……但是，\n\r\n我听说在设置里是可以关闭广告的。\n\r\n试试看\n\n回复\n\n举报\n\n下一页 »\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 12\n / 12 页\n下一页\n返回列表\n\n免责声明：\n吾爱破解所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。\n\nMail To:Service@52pojie.cn\n\n返回列表\n\n \n关注微信\n \n \n\n微信签到每天都送论坛币！\n\n \n \n\n返回顶部\n\nRSS订阅\n|\n小黑屋\n|\n处罚记录\n|\n联系我们\n|\n吾爱破解 - 52pojie.cn\n\n( \n京ICP备16042023号 | 京公网安备 11010502030087号\n )\n\nGMT+8, 2026-4-22 13:47\n\nPowered by \nDiscuz!\n\nCop"
+  },
+  {
+    "hash": "98cc1993e8eb944022fb4452402f5289",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "e.cn\n\n( \n京ICP备16042023号 | 京公网安备 11010502030087号\n )\n\nGMT+8, 2026-4-22 13:47\n\nPowered by \nDiscuz!\n\nCopyright © 2001-2020, Tencent Cloud.\n\n快速回复\n\n返回顶部\n\n返回列表\n\n---\n\n[搜狗拼音输入法 v15.1.0.1570 去广告精简版 - 吾爱破解 ...]\n官方bilibili\nWindows破解入门\nAndroid逆向入门\n\n【网络诊断修复工具】\n切换到窄版\n\n请 \n登录\n 后使用快捷导航\n没有帐号？\n注册[Register] \n\n快捷导航\n\n门户\n吾爱破解门户\n网站\n吾爱破解论坛\n新帖\n吾爱破解论坛新帖导读\n专辑\n吾爱破解文章专辑列表\n排行榜\n吾爱破解排行榜\n总版规\n吾爱破解论坛总版规\n爱盘\n爱盘，在线破解工具包，实时提供最新逆向资源！\n帮助\n吾爱破解论坛常见问题解答中心\n\n关注人的新帖\n技术新帖合集\n最新软件合集\n原创发布新贴\n脱壳破解新帖\n移动安全新帖\n病毒分析新帖\n软件调试新贴\n动画发布新帖\n编程语言新帖\n邀请好友注册\nTools\n吾爱破解Logo\n吾爱破解桌面壁纸\n吾爱破解视频教程\n吾爱破解论坛精华集\n吾爱破解专用版Ollydbg\n处理举报贴\n处理站务贴\n处理福利贴\n处理水区贴\n办公区\n证据区\n\n原创发布区\n\n精品软件区\n\n逆向资源区\n\n水漫金山区\n\n病毒救援区\n\n福利经验区\n\n脱壳破解区\n\n移动安全区\n\n病毒分析区\n\n编程语言区\n\n动画发布区\n\n安全工具区\n\n站点公告\n\n站点导航\n\n站点总版规\n\n申请专区\n\n招聘求职\n\n违规怎么办\n\n站点帮助\n\n站务处理\n\n本版\n用户\n\n挣悬赏\n\n未完结\n\n撤销悬赏\n\n吾爱破解 - 52pojie.cn\n»\n网站\n \n›\n \n【 软件安全 】\n \n›\n \n『精品软件区』\n \n›\n \n搜狗"
+  },
+  {
+    "hash": "1ede175890ee7a9d9b6f22c1a41fed89",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "怎么办\n\n站点帮助\n\n站务处理\n\n本版\n用户\n\n挣悬赏\n\n未完结\n\n撤销悬赏\n\n吾爱破解 - 52pojie.cn\n»\n网站\n \n›\n \n【 软件安全 】\n \n›\n \n『精品软件区』\n \n›\n \n搜狗拼音输入法 v15.1.0.1570 去广告精简版\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 33\n / 33 页\n下一页\n\n返回列表\n\n查看:\n \n36330\n|\n回复:\n \n326\n\n[Windows]\n\n搜狗拼音输入法 v15.1.0.1570 去广告精简版\n\n \n\n \n\n[复制链接]\n\n \n\nsoyo136\n\nsoyo136\n\n当前离线\n\n好友\n\n阅读权限\n0\n\n听众\n\n最后登录\n1970-1-1\n\n头像被屏蔽\n\n电梯直达\n\n楼主\n\nsoyo136\n\n发表于\n 2025-2-10 00:05\n\n提示: \n作者被禁止或删除 内容自动屏蔽\n\n本帖被以下淘专辑推荐:\n\n· \n电脑软件集合\n|\n主题: 2051, 订阅: 3383\n\n· \n实用工具&网站&软件\n|\n主题: 93, 订阅: 43\n\n分享到朋友圈\n\n发帖前要善用\n【\n论坛搜索\n】\n功能，那里可能会有你要找的答案或者已经有人发布过相同内容了，请勿重复发帖。\n\n回复\n\n举报\n\nmuyiYANA\n\nmuyiYANA\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nmuyiYANA\n\n发表于\n 2025-2-11 11:58\n\nchenxingfeng 发表于 2025-2-10 18:40\n\r\n蹲个蓝奏盘\n\nhttps://muyiyana.lanzoue.com/id5ad2ng859e\n\r\n密码:52pj\n\n免费评分\n\n 参与人数 \n18\n吾爱币 \n+11\n\n热心值 \n+17\n\n收起\n\n理由\n\n \nq7758520\n\n + 1\n\n + 1\n\n已下载使用， 感谢\n\n \nT"
+  },
+  {
+    "hash": "e01a77da6f2bb2b678fc2b044904c01e",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "ng859e\n\r\n密码:52pj\n\n免费评分\n\n 参与人数 \n18\n吾爱币 \n+11\n\n热心值 \n+17\n\n收起\n\n理由\n\n \nq7758520\n\n + 1\n\n + 1\n\n已下载使用， 感谢\n\n \nTheseaway\n\n + 1\n\n我很赞同！\n\n \nhhp3175358\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n膨胀的海绵体\n\n + 1\n\n + 1\n\n热心回复！\n\n \nlijiaxian\n\n + 1\n\n热心回复！\n\n \nft7882886\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n星空迷徒\n\n + 1\n\n谢谢@Thanks！\n\n \nwoerpppmj3\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n小白羊\n\n + 1\n\n我很赞同！\n\n \nlaji_202101\n\n + 1\n\n热心回复！\n\n \nxiaolysh\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \neyeyooo\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n2011lwx\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nchexm\n\n + 1\n\n谢谢@Thanks！\n\n \na134214\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n清风听夜雨\n\n + 1\n\n我很赞同！\n\n \nsghh611\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nchenxingfeng\n\n + 1\n\n热心回复！\n\n查看全部评分\n\n 【吾爱破解论坛总版规】 - [让你充分了解吾爱破解论坛行为规则]\n\n回复\n\n举报\n\nzhangzly\n\nzhangzly\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\nzhangzly\n\n发表于\n 2025-2-10 15:08\n\n吾爱破解论坛没有任何官方QQ群，禁止留联系方式，禁止任何商业交易。\n\n会不会用两天之后又自动"
+  },
+  {
+    "hash": "9a6596174c326656a794cff5085c1f1f",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "众\n\n最后登录\n1970-1-1\n\n推荐\n\nzhangzly\n\n发表于\n 2025-2-10 15:08\n\n吾爱破解论坛没有任何官方QQ群，禁止留联系方式，禁止任何商业交易。\n\n会不会用两天之后又自动更新，搞怕了\n\n如何升级？如何获得积分？积分对应解释说明！\n\n回复\n\n举报\n\ntaiwei\n\ntaiwei\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\ntaiwei\n\n发表于\n 2025-2-10 16:02\n\n《站点帮助文档》有什么问题来这里看看吧，这里有你想知道的内容！\n\n用了以后，会提示更新呢，提示框出来了只能点立即更新或者是一周后提醒我，忘记截图了。\n\n呼吁大家发布原创作品添加吾爱破解论坛标识！\n\n回复\n\n举报\n\np6116\n\np6116\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\np6116\n\n发表于\n 2025-2-10 15:37\n\n请问这个会不会自动更新掉\n\n如何快速判断一个文件是否为病毒！\n\n回复\n\n举报\n\njinwee\n\njinwee\n\n当前离线\n\n好友\n\n阅读权限\n20\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\njinwee\n\n发表于\n 2025-2-10 15:49\n\n20天前已更新，来自423down\n\n回复\n\n举报\n\ngqdsc\n\ngqdsc\n\n当前离线\n\n好友\n\n阅读权限\n20\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\ngqdsc\n\n发表于\n 2025-2-11 09:36\n\n要介绍下到底做了哪些修改，要不真的怕~\n\n回复\n\n举报\n\ncel198600\n\ncel198600\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\ncel198600\n\n发表于\n 2025-4-1 21:34\n\nAPP一天不广告，浑身都刺挠；一"
+  },
+  {
+    "hash": "f2e3e585a06802a920629f0466178354",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "el198600\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\ncel198600\n\n发表于\n 2025-4-1 21:34\n\nAPP一天不广告，浑身都刺挠；一天不弹窗，吃饭都不香\n\n回复\n\n举报\n\n超逸绝尘\n\n超逸绝尘\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n推荐\n\n超逸绝尘\n\n发表于\n 2025-2-10 15:19\n\n现在国产软件挺好用，就是广告太多\n\n回复\n\n举报\n\ncian9999\n\ncian9999\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n7\n#\n\ncian9999\n\n发表于\n 2025-2-10 15:27\n\n下载下来试试，看看效果如何！\n\n回复\n\n举报\n\nwchwcc\n\nwchwcc\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n8\n#\n\nwchwcc\n\n发表于\n 2025-2-10 15:51\n\n我还是在用10.0a，没有觉得有什么问题。2020年的软件！\n\n回复\n\n举报\n\nxiaozhuxuezhang\n\nxiaozhuxuezhang\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n9\n#\n\nxiaozhuxuezhang\n\n发表于\n 2025-2-10 16:51\n\n挺好的，免除广告\n\n回复\n\n举报\n\nsootaeng039\n\nsootaeng039\n\n当前离线\n\n好友\n\n阅读权限\n10\n\n听众\n\n最后登录\n1970-1-1\n\n10\n#\n\nsootaeng039\n\n发表于\n 2025-2-10 17:12\n\n感谢分享，下载试试\n\n回复\n\n举报\n\n下一页 »\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 33\n / 33 页\n下一页\n返回列表\n\n免责声明：\n吾爱破解所发布"
+  },
+  {
+    "hash": "72c39529aa53a1c40174055677cde8c2",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "25-2-10 17:12\n\n感谢分享，下载试试\n\n回复\n\n举报\n\n下一页 »\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 33\n / 33 页\n下一页\n返回列表\n\n免责声明：\n吾爱破解所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。\n\nMail To:Service@52pojie.cn\n\n返回列表\n\n \n关注微信\n \n \n\n微信签到每天都送论坛币！\n\n \n \n\n返回顶部\n\nRSS订阅\n|\n小黑屋\n|\n处罚记录\n|\n联系我们\n|\n吾爱破解 - 52pojie.cn\n\n( \n京ICP备16042023号 | 京公网安备 11010502030087号\n )\n\nGMT+8, 2026-4-22 13:27\n\nPowered by \nDiscuz!\n\nCopyright © 2001-2020, Tencent Cloud.\n\n快速回复\n\n返回顶部\n\n返回列表\n\n---\n\n[6.22搜狗输入法PC版v9.7.0.3695 去除广告纯净版 - 吾爱破解 ...]\n官方bilibili\nWindows破解入门\nAndroid逆向入门\n\n【网络诊断修复工具】\n切换到窄版\n\n请 \n登录\n 后使用快捷导航\n没有帐号？\n注册[Register] \n\n快捷导航\n\n门户\n吾爱破解门户\n网站\n吾爱破解论坛\n新帖\n吾爱破解论坛新帖导读\n专辑\n吾爱破解文章专辑列表\n排行榜\n吾爱破解排行榜\n总版规\n吾爱破解论坛总版规\n爱盘\n爱盘，在线破解工具包，实时提供最新逆向资源！\n帮助\n吾爱破解论坛常见问题解答中心\n\n关"
+  },
+  {
+    "hash": "43bd493a8b8be17f3af8e66958085c94",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "新帖\n吾爱破解论坛新帖导读\n专辑\n吾爱破解文章专辑列表\n排行榜\n吾爱破解排行榜\n总版规\n吾爱破解论坛总版规\n爱盘\n爱盘，在线破解工具包，实时提供最新逆向资源！\n帮助\n吾爱破解论坛常见问题解答中心\n\n关注人的新帖\n技术新帖合集\n最新软件合集\n原创发布新贴\n脱壳破解新帖\n移动安全新帖\n病毒分析新帖\n软件调试新贴\n动画发布新帖\n编程语言新帖\n邀请好友注册\nTools\n吾爱破解Logo\n吾爱破解桌面壁纸\n吾爱破解视频教程\n吾爱破解论坛精华集\n吾爱破解专用版Ollydbg\n处理举报贴\n处理站务贴\n处理福利贴\n处理水区贴\n办公区\n证据区\n\n原创发布区\n\n精品软件区\n\n逆向资源区\n\n水漫金山区\n\n病毒救援区\n\n福利经验区\n\n脱壳破解区\n\n移动安全区\n\n病毒分析区\n\n编程语言区\n\n动画发布区\n\n安全工具区\n\n站点公告\n\n站点导航\n\n站点总版规\n\n申请专区\n\n招聘求职\n\n违规怎么办\n\n站点帮助\n\n站务处理\n\n本版\n用户\n\n挣悬赏\n\n未完结\n\n撤销悬赏\n\n吾爱破解 - 52pojie.cn\n»\n网站\n \n›\n \n【 软件安全 】\n \n›\n \n『精品软件区』\n \n›\n \n6.22搜狗输入法PC版v9.7.0.3695 去除广告纯净版\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n... 44\n / 44 页\n下一页\n\n返回列表\n\n查看:\n \n72837\n|\n回复:\n \n432\n\n[Windows]\n\n6.22搜狗输入法PC版v9.7.0.3695 去除广告纯净版\n\n \n\n \n\n[复制链接]\n\n \n\nWastay\n\nWastay\n\n当前离线\n\n好友\n\n阅读权限\n25\n\n听众\n\n最后登录\n1970-1-1\n\n电梯直达\n\n楼主\n\nWastay\n\n发表于\n 2020-6-23 00:08\n\n 本帖最后由 Wastay 于 2020-6-23 00:29 编辑 \n\n搜狗输入法\n9.7.0.3695 去除广告"
+  },
+  {
+    "hash": "03571144739b74a7999e21f5a14ec9fc",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "电梯直达\n\n楼主\n\nWastay\n\n发表于\n 2020-6-23 00:08\n\n 本帖最后由 Wastay 于 2020-6-23 00:29 编辑 \n\n搜狗输入法\n9.7.0.3695 去除广告纯净版\n\r\n————————————————————————————————\n\n批注 2020-06-23 000013.png\n \n(97.17 KB, 下载次数: 16)\n\n下载附件\n\n2020-6-23 00:00 上传\n\n\r\n————————————————————————————————\n\n新版特性\npinyin.sogou.com/changelog.php\n\n————————————————————————————————\n\n此版特点\n\r\n免广告，精简优化，免自动升级，彻底阻止广告弹窗及自动更新！\n\r\n彻底阻止后台下载释放广告程序收集相关信息推送广告弹窗行为!\n\r\n删除广告程序（任务栏通知区域搜狐微门户弹窗、勋章推荐弹窗）\n\r\n无推广行为，默认无多余干扰提示，默认无不必要程序驻留进程；\n\r\n阻止及可选：云计算候选、后台联网组件（词库更新、配置同步）\n\r\n删除及阻止：搜狐微门户新闻程序、勋章推荐程序、搜索候选模块；\n\r\n删除：核心服务程序、网络更新程序、辅助工具模块、崩溃反馈程序；\n\r\n删除：图片表情、人工语音、皮肤推荐、皮肤盒子/flash皮肤等，可在工具箱里安装；\n\r\n优化：取消搜索候选、皮肤推荐/flash皮肤模式、词条/升级/新勋章/活跃天数等提示；\n\r\n安装程序：支持Windows 10 Metro模式，支持ARM64位系统，支持检测覆盖安装。\n\n\r\n——————————————————————————————————\n\n20200622 v2 安装脚本增加以下硬核阻止措施，双保险！\n\r\n彻底阻止下载释放广告程序及收集相关信息推送广告弹窗!\n\r\n彻底阻止P"
+  },
+  {
+    "hash": "80fe7a14ad7273dbe86d6153112fc9f7",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "——————————————————————————————\n\n20200622 v2 安装脚本增加以下硬核阻止措施，双保险！\n\r\n彻底阻止下载释放广告程序及收集相关信息推送广告弹窗!\n\r\n彻底阻止Popup,ShowInfo.exe,sgtool.dll,SGNews.exe等复发\n\r\n参考火绒分析文章【搜狗输入法强制推广“618红包广告” 】\n\r\n52pojie.cn/thread-1194346-1-1.html\n;阻止相关入站连接规则\n\r\nnsExec::Exec ‘netsh advfirewall firewall add rule name=”阻止搜狗输入法广告” dir=in action=block program=”$INSTDIR\\${PRODUCT_VERSION}\\ShowInfo.exe”‘\n\r\nnsExec::Exec ‘netsh advfirewall firewall add rule name=”阻止搜狗输入法联网” dir=in action=block program=”$INSTDIR\\${PRODUCT_VERSION}\\SGTool.exe”‘\n\r\nnsExec::Exec ‘netsh advfirewall set allprofiles state on’\n\r\n;彻底阻止下载广告配置信息文件\n\r\n${If} ${AtMostWin2003}\n\r\nStrCpy $5 “$AppData\\SogouPY”\n\r\n${Else}\n\r\nStrCpy $5 “$PROFILE\\AppData\\LocalLow\\SogouPY”\n\r\n${EndIf}\n\r\nnsExec::Exec ‘takeown /f “$5\\Popup” /a’\n\r\nnsExec::Exec ‘icacls “$5\\Popup” /c /grant:r Every"
+  },
+  {
+    "hash": "f42ccbfb1a95128d394374f13b1905ad",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "EndIf}\n\r\nnsExec::Exec ‘takeown /f “$5\\Popup” /a’\n\r\nnsExec::Exec ‘icacls “$5\\Popup” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\r\n;彻底阻止偷偷释放广告程序组件\n\r\nnsExec::Exec ‘takeown /f “$INSTDIR\\${PRODUCT_VERSION}\\sgtool.dll” /a’\n\r\nnsExec::Exec ‘icacls “$INSTDIR\\${PRODUCT_VERSION}\\sgtool.dll” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\r\nnsExec::Exec ‘takeown /f “$INSTDIR\\${PRODUCT_VERSION}\\SGNews.exe” /a’\n\r\nnsExec::Exec ‘icacls “$INSTDIR\\${PRODUCT_VERSION}\\SGNews.exe” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\r\nnsExec::Exec ‘takeown /f “$INSTDIR\\${PRODUCT_VERSION}\\SGSetc.exe” /a’\n\r\nnsExec::Exec ‘icacls “$INSTDIR\\${PRODUCT_VERSION}\\SGSetc.exe” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,"
+  },
+  {
+    "hash": "d446c56c0b83a24bafb343607ca3f993",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "$INSTDIR\\${PRODUCT_VERSION}\\SGSetc.exe” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\r\nnsExec::Exec ‘takeown /f “$INSTDIR\\${PRODUCT_VERSION}\\ShowInfo.exe” /a’\n\r\nnsExec::Exec ‘icacls “$INSTDIR\\${PRODUCT_VERSION}\\ShowInfo.exe” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\r\nnsExec::Exec ‘takeown /f “$INSTDIR\\${PRODUCT_VERSION}\\SGMedalLoader.exe” /a’\n\r\nnsExec::Exec ‘icacls “$INSTDIR\\${PRODUCT_VERSION}\\SGMedalLoader.exe” /c /grant:r Everyone:(oi)(ci)(de,rc,s,gr,gw,ge,rd,wd,ad,rea,wea,x,dc,ra,wa)’\n\nby \nzdBryan\n\n\r\n——————————————————————————————————\n\n天翼云\nhttps://cloud.189.cn/t/R7je2yFB7NFz（访问码：1tcy）\n\n蓝奏云\nhttps://wws.lanzouj.com/iYs6Pdy8i1e\n 密码:i76j\n\n免费评分\n\n 参与人数 \n162\n吾爱币 \n+145\n\n热心值 \n+151\n\n收起\n\n理由\n\n \n竹子万年青\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nwzw575"
+  },
+  {
+    "hash": "62a350b8f2fa9bd1bbe7df140bd7d597",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "i1e\n 密码:i76j\n\n免费评分\n\n 参与人数 \n162\n吾爱币 \n+145\n\n热心值 \n+151\n\n收起\n\n理由\n\n \n竹子万年青\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nwzw575\n\n + 1\n\n谢谢@Thanks！\n\n \nfishing112\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n吴越之南\n\n + 1\n\n谢谢@Thanks！\n\n \n小鱼的幻想世界\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nBuXiang17\n\n + 1\n\n谢谢@Thanks！\n\n \n一缕霞光\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nnoriel\n\n + 1\n\n谢谢@Thanks！\n\n \nxuqumougai\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n大馍法师\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nAHISDOFHN\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nzerowx\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nsnowman32\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n联合会\n\n + 1\n\n + 1\n\n热心回复！\n\n \nhzr510\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nironmaneva\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \naihen\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nnut1999\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nLwei\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \nlxg05620\n\n + 1\n\n + 1\n\n热心回复！\n\n \ncrystalboy159\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n沐丶风\n\n + 1\n\n + 1\n\n热心回复！\n\n \nyeszxc\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n发飙的熊猫君"
+  },
+  {
+    "hash": "41a52aa7e4a3d200b584599e4c7dd842",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "y159\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n沐丶风\n\n + 1\n\n + 1\n\n热心回复！\n\n \nyeszxc\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n发飙的熊猫君\n\n + 1\n\n输入法就该简简单单\n\n \nBig999\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nxiaodaoh\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nzyr123\n\n + 1\n\n谢谢@Thanks！\n\n \n御零枫\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nyydxll\n\n + 1\n\n + 1\n\n热心回复！\n\n \nwguage\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nqsjk0012\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n龙兴天下\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \ns7king\n\n + 1\n\n我很赞同！\n\n \n丶小HI\n\n + 1\n\n + 1\n\n热心回复！\n\n \naa1800\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \nxuelong911\n\n + 1\n\n我很赞同！\n\n \nmtxx1\n\n + 1\n\n + 1\n\n热心回复！\n\n \nlj2017\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nmanhao93\n\n + 1\n\n热心回复！\n\n \n陈世界\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nAsuraK0701\n\n + 1\n\n谢谢@Thanks！\n\n \n长江哥哥\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nblogxj\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nljm57\n\n + 1\n\n + 1\n\n用心讨论，共获提升！\n\n \nyjldg\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nyishion819\n\n + 1\n\n + 1\n\n谢谢LZ分享这个软件 正在找呢"
+  },
+  {
+    "hash": "5afc7300b26959e180e6ee5615a96035",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "1\n\n + 1\n\n用心讨论，共获提升！\n\n \nyjldg\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nyishion819\n\n + 1\n\n + 1\n\n谢谢LZ分享这个软件 正在找呢\n\n \ncscsgs642355\n\n + 1\n\n + 1\n\n我很赞同！\n\n \n鸡哥带你飞\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \ndongtongxue\n\n + 1\n\n谢谢@Thanks！\n\n \ndoggyhzj\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \njoxin\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n小神净\n\n + 1\n\n热心回复！\n\n \n梦里什么都有\n\n + 1\n\n + 1\n\n感谢发布原创作品，吾爱破解论坛因你更精彩！\n\n \n浅海之夜\n\n + 1\n\n + 1\n\n马上赞一波，目前没有任何问题\n\n \nwsdsl1\n\n + 1\n\n + 1\n\n还不错，到目前为止没弹出修复提示\n\n \nzhuyi3609\n\n + 1\n\n + 1\n\n热心回复！\n\n \n导演\n\n + 1\n\n + 1\n\n感谢发布原创作品，吾爱破解论坛因你更精彩！\n\n \nvethenc\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nlyq1959\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n海盗的骷髅旗\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \n请叫我灰灰大人\n\n + 1\n\nLJ搜狗，用了十年现在选择QQ\n\n \nhuanyuan3\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nwds317958693\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nwewsopkyo\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nzanlu\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nericye_cn\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \njljy"
+  },
+  {
+    "hash": "f6e32edb1b71b168a2c3abf4625b0db3",
+    "requirement": "accounts receivable agent",
+    "platform": "relevanceai",
+    "text": "kyo\n\n + 1\n\n + 1\n\n我很赞同！\n\n \nzanlu\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nericye_cn\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \njljyyjd\n\n + 1\n\n + 1\n\n我很赞同！\n\n \ndhf619\n\n + 1\n\n + 1\n\n热心回复！\n\n \n我爱破姐\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \ngongzhu\n\n + 1\n\n + 1\n\n谢谢@Thanks！\n\n \nmy2020\n\n + 1\n\n谢谢@Thanks！\n\n \nqqkill\n\n + 1\n\n + 1\n\nNB支持\n\n \n夜明色"
+  },
+  {
+    "hash": "1043789d732c16cbf3e78494bc58d4d0",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "[properties文件怎么打开啊 - 百度知道]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:57508\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xc1c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xc1c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x9f2100]\n\tundetected_chromedriver!(No symbol) [0xa2d752]\n\tundetected_chromedriver!(No symbol) [0xa2c77c]\n\tundetected_chromedriver!(No symbol) [0xa228a5]\n\tundetected_chromedriver!(No symbol) [0xa226c6]\n\tundetected_chromedriver!(No symb"
+  },
+  {
+    "hash": "7e59ba12f155bf9847b37c947b481947",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "symbol) [0xa228a5]\n\tundetected_chromedriver!(No symbol) [0xa226c6]\n\tundetected_chromedriver!(No symbol) [0xa69dff]\n\tundetected_chromedriver!(No symbol) [0xa69617]\n\tundetected_chromedriver!(No symbol) [0xa5d9b6]\n\tundetected_chromedriver!(No symbol) [0xa30339]\n\tundetected_chromedriver!(No symbol) [0xa310f4]\n\tundetected_chromedriver!GetHandleVerifier [0xe7fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xe7b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xe99bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xc37188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xc3f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xc25138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xc25302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xc0e48f+28cf]\n\tKERNEL32!B"
+  },
+  {
+    "hash": "845d65c28350099eee59edd66a9014f4",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "ndleVerifier [0xc25302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xc0e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Reading Properties file in Java - Stack Overflow]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:49680\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x69c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x69c864+10ca"
+  },
+  {
+    "hash": "afd81f60fec3fc5038757e7dcab69441",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "edriver!GetHandleVerifier [0x69c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x69c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x472100]\n\tundetected_chromedriver!(No symbol) [0x4ad752]\n\tundetected_chromedriver!(No symbol) [0x4ac77c]\n\tundetected_chromedriver!(No symbol) [0x4a28a5]\n\tundetected_chromedriver!(No symbol) [0x4a26c6]\n\tundetected_chromedriver!(No symbol) [0x4e9dff]\n\tundetected_chromedriver!(No symbol) [0x4e9617]\n\tundetected_chromedriver!(No symbol) [0x4dd9b6]\n\tundetected_chromedriver!(No symbol) [0x4b0339]\n\tundetected_chromedriver!(No symbol) [0x4b10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x8ffe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x8fb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x919bd5+28e015]\n\tundetected_chromedriver!GetHandle"
+  },
+  {
+    "hash": "eb194f8ed87031fad69103e5e9fd86f7",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "899]\n\tundetected_chromedriver!GetHandleVerifier [0x919bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x6b7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x6bf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x6a5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x6a5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x68e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[properties - How to use Java property files? - Stack Overflow]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52629\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 1"
+  },
+  {
+    "hash": "6b5f2d22ff9d99cc4a744d69b64eab53",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x4dc733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x4dc864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x2b2100]\n\tundetected_chromedriver!(No symbol) [0x2ed752]\n\tundetected_chromedriver!(No symbol) [0x2ec77c]\n\tundetected_chromedriver!(No symbol) [0x2e28a5]\n\tundetected_chromedriver!(No symbol) [0x2e26c6]\n\tundetected_chromedriver!(No symbol) [0x329dff]\n\tundetected_chromedriver!(No symbol) [0x329617]\n\tundetected_chromedriver!(No symbol) [0x31d9b6]\n\tundetected_chromedriver"
+  },
+  {
+    "hash": "96f82aa61ca9977c21411cb395e511f9",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "iver!(No symbol) [0x329617]\n\tundetected_chromedriver!(No symbol) [0x31d9b6]\n\tundetected_chromedriver!(No symbol) [0x2f0339]\n\tundetected_chromedriver!(No symbol) [0x2f10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x73fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x73b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x759bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x4f7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x4ff23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x4e5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x4e5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x4ce48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd"
+  },
+  {
+    "hash": "3c10adc871cb35c862a1f3cd00740749",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "ntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Properties file in python (similar to Java Properties)]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:53284\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x7ac733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x7ac864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x582100]\n\tundetected_chromedriver!(No symbol) [0x5bd752]\n\tundetected_chromedriver!(No s"
+  },
+  {
+    "hash": "10b577310803a87f138346358ea1f0a3",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "No symbol) [0x582100]\n\tundetected_chromedriver!(No symbol) [0x5bd752]\n\tundetected_chromedriver!(No symbol) [0x5bc77c]\n\tundetected_chromedriver!(No symbol) [0x5b28a5]\n\tundetected_chromedriver!(No symbol) [0x5b26c6]\n\tundetected_chromedriver!(No symbol) [0x5f9dff]\n\tundetected_chromedriver!(No symbol) [0x5f9617]\n\tundetected_chromedriver!(No symbol) [0x5ed9b6]\n\tundetected_chromedriver!(No symbol) [0x5c0339]\n\tundetected_chromedriver!(No symbol) [0x5c10f4]\n\tundetected_chromedriver!GetHandleVerifier [0xa0fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xa0b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xa29bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x7c7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x7cf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier"
+  },
+  {
+    "hash": "11dddca0a6ba65eec95618ab18cb1d45",
+    "requirement": "sourcing agent",
+    "platform": "zbrain",
+    "text": "detected_chromedriver!GetHandleVerifier [0x7cf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x7b5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x7b5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x79e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "e340ce8141172686574eb073be00206d",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "[Use AppLocker to Allow or Block Script Files in Windows 10]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:57438\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xd0c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xd0c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xae2100]\n\tundetected_chromedriver!(No symbol) [0xb1d752]\n\tundetected_chromedriver!(No symbol) [0xb1c77c]\n\tundetected_chromedriver!(No symbol) [0xb128a5]\n\tundetected_chromedriver!(No symbol) [0xb126c6]"
+  },
+  {
+    "hash": "ea6fb86a8d0225e26bec37f6ec3bc058",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "77c]\n\tundetected_chromedriver!(No symbol) [0xb128a5]\n\tundetected_chromedriver!(No symbol) [0xb126c6]\n\tundetected_chromedriver!(No symbol) [0xb59dff]\n\tundetected_chromedriver!(No symbol) [0xb59617]\n\tundetected_chromedriver!(No symbol) [0xb4d9b6]\n\tundetected_chromedriver!(No symbol) [0xb20339]\n\tundetected_chromedriver!(No symbol) [0xb210f4]\n\tundetected_chromedriver!GetHandleVerifier [0xf6fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xf6b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xf89bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xd27188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xd2f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xd15138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xd15302+19742]\n\tundetected_chromedriver!GetHandleVe"
+  },
+  {
+    "hash": "21aa5603a935b0bdc07dcc0d1cf362d5",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "78]\n\tundetected_chromedriver!GetHandleVerifier [0xd15302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xcfe48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[How to Add or Remove Favorites Button in Microsoft Edge Chromium]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:58385\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x49c733+10b73]\n\tundete"
+  },
+  {
+    "hash": "ed694c2fb15e32fbc326ee95bf2685c7",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "nnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x49c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x49c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x272100]\n\tundetected_chromedriver!(No symbol) [0x2ad752]\n\tundetected_chromedriver!(No symbol) [0x2ac77c]\n\tundetected_chromedriver!(No symbol) [0x2a28a5]\n\tundetected_chromedriver!(No symbol) [0x2a26c6]\n\tundetected_chromedriver!(No symbol) [0x2e9dff]\n\tundetected_chromedriver!(No symbol) [0x2e9617]\n\tundetected_chromedriver!(No symbol) [0x2dd9b6]\n\tundetected_chromedriver!(No symbol) [0x2b0339]\n\tundetected_chromedriver!(No symbol) [0x2b10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x6ffe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x6fb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0"
+  },
+  {
+    "hash": "08acfaf54903a548a614481b8fff683a",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "ected_chromedriver!GetHandleVerifier [0x6fb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x719bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x4b7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x4bf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x4a5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x4a5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x48e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Microsoft 365 sign in problem - Windows 10 Forums]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:53752\nfrom session not created: This version of ChromeDriver only supports Chrome ve"
+  },
+  {
+    "hash": "d0853246a87c35e56801e0cab86ad872",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "me at 127.0.0.1:53752\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x88c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x88c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x662100]\n\tundetected_chromedriver!(No symbol) [0x69d752]\n\tundetected_chromedriver!(No symbol) [0x69c77c]\n\tundetected_chromedriver!(No symbol) [0x6928a5]\n\tundetected_chromedriver!(No symbol) [0x6926c6]\n\tundetected_chromedriver!(No symbol) [0x6d9dff]\n\tundetected_chromedriver!(No symbol) [0x6d9617]\n\tundetected_chromedriver!(No symbo"
+  },
+  {
+    "hash": "32dd8639d47be3906cddc65626ed6284",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "ymbol) [0x6d9dff]\n\tundetected_chromedriver!(No symbol) [0x6d9617]\n\tundetected_chromedriver!(No symbol) [0x6cd9b6]\n\tundetected_chromedriver!(No symbol) [0x6a0339]\n\tundetected_chromedriver!(No symbol) [0x6a10f4]\n\tundetected_chromedriver!GetHandleVerifier [0xaefe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xaeb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xb09bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x8a7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x8af23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x895138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x895302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x87e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlG"
+  },
+  {
+    "hash": "f0530005a3ba15213e3674d1a46fe9a5",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "2!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Display Last Sign-in Information during User Sign-in in Windows 10]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:55442\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xb1c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xb1c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x8f2100]\n\tundetected_chromedriver!(No"
+  },
+  {
+    "hash": "b25a206ae6a2458c84eb5e1d52623e5a",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "rifier [0xb1c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x8f2100]\n\tundetected_chromedriver!(No symbol) [0x92d752]\n\tundetected_chromedriver!(No symbol) [0x92c77c]\n\tundetected_chromedriver!(No symbol) [0x9228a5]\n\tundetected_chromedriver!(No symbol) [0x9226c6]\n\tundetected_chromedriver!(No symbol) [0x969dff]\n\tundetected_chromedriver!(No symbol) [0x969617]\n\tundetected_chromedriver!(No symbol) [0x95d9b6]\n\tundetected_chromedriver!(No symbol) [0x930339]\n\tundetected_chromedriver!(No symbol) [0x9310f4]\n\tundetected_chromedriver!GetHandleVerifier [0xd7fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xd7b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xd99bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xb37188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xb3f23d+"
+  },
+  {
+    "hash": "77b8c971228a38f1190321398cb258c5",
+    "requirement": "sourcing agent",
+    "platform": "servicenow",
+    "text": "hromedriver!GetHandleVerifier [0xb37188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xb3f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xb25138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xb25302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xb0e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "e2d3a971b3397d4e065d34bd8bf46c4e",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "[AI Agent - docs.automationanywhere.com]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:60679\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xe6c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xe6c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xc42100]\n\tundetected_chromedriver!(No symbol) [0xc7d752]\n\tundetected_chromedriver!(No symbol) [0xc7c77c]\n\tundetected_chromedriver!(No symbol) [0xc728a5]\n\tundetected_chromedriver!(No symbol) [0xc726c6]\n\tundetected_chromed"
+  },
+  {
+    "hash": "783253179cb3b5ef53f30bef32bed16f",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "omedriver!(No symbol) [0xc728a5]\n\tundetected_chromedriver!(No symbol) [0xc726c6]\n\tundetected_chromedriver!(No symbol) [0xcb9dff]\n\tundetected_chromedriver!(No symbol) [0xcb9617]\n\tundetected_chromedriver!(No symbol) [0xcad9b6]\n\tundetected_chromedriver!(No symbol) [0xc80339]\n\tundetected_chromedriver!(No symbol) [0xc810f4]\n\tundetected_chromedriver!GetHandleVerifier [0x10cfe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x10cb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x10e9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xe87188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xe8f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xe75138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xe75302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xe5e48f+"
+  },
+  {
+    "hash": "ec35d91a89dd815bd6a436bb2449b19a",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "hromedriver!GetHandleVerifier [0xe75302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xe5e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Install Bot Agent and register Windows device - Automation Anywhere]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:55814\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x84c733+10b73]\n\tundetected_chromedri"
+  },
+  {
+    "hash": "348465699251cc62d872f922dc235168",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "eption\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x84c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x84c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x622100]\n\tundetected_chromedriver!(No symbol) [0x65d752]\n\tundetected_chromedriver!(No symbol) [0x65c77c]\n\tundetected_chromedriver!(No symbol) [0x6528a5]\n\tundetected_chromedriver!(No symbol) [0x6526c6]\n\tundetected_chromedriver!(No symbol) [0x699dff]\n\tundetected_chromedriver!(No symbol) [0x699617]\n\tundetected_chromedriver!(No symbol) [0x68d9b6]\n\tundetected_chromedriver!(No symbol) [0x660339]\n\tundetected_chromedriver!(No symbol) [0x6610f4]\n\tundetected_chromedriver!GetHandleVerifier [0xaafe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xaab459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xac9bd5+28e015"
+  },
+  {
+    "hash": "6a934d4c5240edd87d64e828cf92eb30",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "iver!GetHandleVerifier [0xaab459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xac9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x867188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x86f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x855138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x855302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x83e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[AgentAnywhere - AI Agent Platform & Store | AgentAnywhere]\nBuild, Deploy & Scale \nAI Agents\n Anywhere\nTransform your business with intelligent automation. Our comprehensive platform makes it easy to create, deploy, and manage AI agents"
+  },
+  {
+    "hash": "38dcdeb1c075785e20da22c0419b9a59",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "lligent automation. Our comprehensive platform makes it easy to create, deploy, and manage AI agents that work 24/7 to enhance your operations.\nStart Building Agents\nWatch Demo\nBrowse Agents\nEverything You Need to \nAutomate Your Business\nFrom building to deploying, our platform provides all the tools you need to create powerful AI agents\n🚀\nBuild with No Code\nCreate sophisticated AI agents using our intuitive visual builder. No programming required.\n⚡\nDeploy Instantly\nLaunch your agents in minutes with our cloud infrastructure. Scale automatically as you grow.\n🔗\nIntegrate Everything\nConnect with 100+ popular tools and APIs. Your agents work seamlessly with your existing stack.\n📊\nMonitor & Optimize\nTrack performance, analyze conversations, and continuously improve your agents with detailed a"
+  },
+  {
+    "hash": "15178094f1283d96ab5aaccaf73659ff",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "imize\nTrack performance, analyze conversations, and continuously improve your agents with detailed analytics.\nTrusted by \nLeading Companies\nJoin thousands of businesses already using AgentAnywhere to automate their operations\n10K+\nAgents Deployed\n99.9%\nUptime\n50+\nIntegrations\n24/7\nSupport\nTrusted by Leading Companies\nFeatured Agents\nCustomer Support Agent\n★\n4.8\nHandle customer inquiries with natural language processing and context awareness.\nCustomer Service\nSales Qualification Bot\n★\n4.7\nQualify leads and schedule demos automatically with intelligent conversation flow.\nSales & Marketing\nContent Generator AI\n★\n4.6\nCreate high-quality blog posts, social media content, and marketing copy.\nContent Creation\nData Analyst Assistant\n★\n4.9\nAutomated data analysis and business intelligence reporting"
+  },
+  {
+    "hash": "894d1b83564feca595aae37070513b48",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "nt Creation\nData Analyst Assistant\n★\n4.9\nAutomated data analysis and business intelligence reporting.\nData Analytics\nBrowse All Agents\nUse Cases\n by Industry\nDiscover how different industries are leveraging AI agents to transform their operations\n🎧\nCustomer Service\nAutomate support tickets, provide instant responses, and escalate complex issues to human agents.\n💼\nSales & Marketing\nQualify leads, schedule demos, and nurture prospects through personalized conversations.\n✍️\nContent Creation\nGenerate blog posts, social media content, and marketing copy tailored to your brand voice.\n📈\nData Analysis\nProcess large datasets, generate reports, and provide insights from your business data.\nSuccess Stories\nHear from businesses that have transformed their operations with AgentAnywhere\n👩‍💼\nSarah Johnso"
+  },
+  {
+    "hash": "e38dbf238c56e6cf775ffd1ab311f830",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "ries\nHear from businesses that have transformed their operations with AgentAnywhere\n👩‍💼\nSarah Johnson\nCEO, TechStart Inc.\n\"\nAgentAnywhere transformed our customer support. We reduced response time by 80% and our customers love the instant, helpful responses.\n\"\n👨‍💼\nMichael Chen\nOperations Director, RetailCorp\n\"\nThe automation capabilities are incredible. We've saved 20 hours per week on routine tasks, allowing our team to focus on strategic work.\n\"\n👩‍🎨\nEmily Rodriguez\nMarketing Manager, GrowthCo\n\"\nOur lead qualification process is now fully automated. We're converting 40% more prospects with half the effort.\n\"\nReady to \nTransform Your Business\n?\nJoin thousands of businesses already using AgentAnywhere to automate their operations and scale their growth.\nStart Free Trial\nLearn More\n\n---\n\n[Ge"
+  },
+  {
+    "hash": "caf67fa4d25eeb2ef2ddc36c75c61217",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "tAnywhere to automate their operations and scale their growth.\nStart Free Trial\nLearn More\n\n---\n\n[Get started with Bot Agent - Automation Anywhere]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:49238\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xe9c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xe9c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xc72100]\n\tundetected_chromedriver!(No symbol) [0xcad752]\n\tundetected_chromedriver!(No symbol) [0xcac77c]\n\tundetec"
+  },
+  {
+    "hash": "b7e1e6e8b2640c6e30d23f97ef395736",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "etected_chromedriver!(No symbol) [0xcad752]\n\tundetected_chromedriver!(No symbol) [0xcac77c]\n\tundetected_chromedriver!(No symbol) [0xca28a5]\n\tundetected_chromedriver!(No symbol) [0xca26c6]\n\tundetected_chromedriver!(No symbol) [0xce9dff]\n\tundetected_chromedriver!(No symbol) [0xce9617]\n\tundetected_chromedriver!(No symbol) [0xcdd9b6]\n\tundetected_chromedriver!(No symbol) [0xcb0339]\n\tundetected_chromedriver!(No symbol) [0xcb10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x10ffe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x10fb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x1119bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xeb7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xebf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xea5138+19578]\n\tundet"
+  },
+  {
+    "hash": "077edaf13a1599e86abbb1ded533dfa9",
+    "requirement": "sourcing agent",
+    "platform": "automation_anywhere",
+    "text": "etHandleVerifier [0xebf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xea5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xea5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xe8e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "9eda3576ccdbe4e205add2c27de5e10e",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "[UiPath Community Forum]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52154\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x38c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x38c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x162100]\n\tundetected_chromedriver!(No symbol) [0x19d752]\n\tundetected_chromedriver!(No symbol) [0x19c77c]\n\tundetected_chromedriver!(No symbol) [0x1928a5]\n\tundetected_chromedriver!(No symbol) [0x1926c6]\n\tundetected_chromedriver!(No symbol"
+  },
+  {
+    "hash": "5f3547de2efb60683a5d759857673a28",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "mbol) [0x1928a5]\n\tundetected_chromedriver!(No symbol) [0x1926c6]\n\tundetected_chromedriver!(No symbol) [0x1d9dff]\n\tundetected_chromedriver!(No symbol) [0x1d9617]\n\tundetected_chromedriver!(No symbol) [0x1cd9b6]\n\tundetected_chromedriver!(No symbol) [0x1a0339]\n\tundetected_chromedriver!(No symbol) [0x1a10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x5efe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x5eb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x609bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x3a7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x3af23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x395138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x395302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x37e48f+28cf]\n\tKERNEL32!Bas"
+  },
+  {
+    "hash": "8c1207ccfff69b45c84d8239a46036ff",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "leVerifier [0x395302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x37e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n\t(No symbol) [(nil)]\n]\n\n---\n\n[UiPath ScreenPlay is now in Public Preview - try it today!]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:59543\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xa7c733+10b73]\n\tundetected_chromedriver!Get"
+  },
+  {
+    "hash": "45534f58661096f711475d2dea676ff3",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "Stacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xa7c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xa7c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x852100]\n\tundetected_chromedriver!(No symbol) [0x88d752]\n\tundetected_chromedriver!(No symbol) [0x88c77c]\n\tundetected_chromedriver!(No symbol) [0x8828a5]\n\tundetected_chromedriver!(No symbol) [0x8826c6]\n\tundetected_chromedriver!(No symbol) [0x8c9dff]\n\tundetected_chromedriver!(No symbol) [0x8c9617]\n\tundetected_chromedriver!(No symbol) [0x8bd9b6]\n\tundetected_chromedriver!(No symbol) [0x890339]\n\tundetected_chromedriver!(No symbol) [0x8910f4]\n\tundetected_chromedriver!GetHandleVerifier [0xcdfe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xcdb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xcf9bd5+28e015]\n\tunde"
+  },
+  {
+    "hash": "728032b79c8631f81d2d13048dd9e7a4",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "tHandleVerifier [0xcdb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xcf9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xa97188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xa9f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xa85138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xa85302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xa6e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Join now the UiPath Community Certification Framework Program 2025]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:64872\nfrom session not created: This version of ChromeDriver only supports Chrome versio"
+  },
+  {
+    "hash": "34983471480eb5c89c369f332e95d692",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "t 127.0.0.1:64872\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x88c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x88c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x662100]\n\tundetected_chromedriver!(No symbol) [0x69d752]\n\tundetected_chromedriver!(No symbol) [0x69c77c]\n\tundetected_chromedriver!(No symbol) [0x6928a5]\n\tundetected_chromedriver!(No symbol) [0x6926c6]\n\tundetected_chromedriver!(No symbol) [0x6d9dff]\n\tundetected_chromedriver!(No symbol) [0x6d9617]\n\tundetected_chromedriver!(No symbol) ["
+  },
+  {
+    "hash": "826f62cfd60c1ddfc0ab477f36fdb255",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "l) [0x6d9dff]\n\tundetected_chromedriver!(No symbol) [0x6d9617]\n\tundetected_chromedriver!(No symbol) [0x6cd9b6]\n\tundetected_chromedriver!(No symbol) [0x6a0339]\n\tundetected_chromedriver!(No symbol) [0x6a10f4]\n\tundetected_chromedriver!GetHandleVerifier [0xaefe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0xaeb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0xb09bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x8a7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x8af23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x895138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x895302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x87e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAp"
+  },
+  {
+    "hash": "4c5fd3ff7475a7146aba0db46d12d6aa",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "seThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Your Ultimate Guide to 50 UiPath Interview Questions & Answers]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:60652\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x6bc733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x6bc864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x492100]\n\tundetected_chromedriver!(No symbol)"
+  },
+  {
+    "hash": "be0b81952216fe573c731a6a2f11b465",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "0x6bc864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x492100]\n\tundetected_chromedriver!(No symbol) [0x4cd752]\n\tundetected_chromedriver!(No symbol) [0x4cc77c]\n\tundetected_chromedriver!(No symbol) [0x4c28a5]\n\tundetected_chromedriver!(No symbol) [0x4c26c6]\n\tundetected_chromedriver!(No symbol) [0x509dff]\n\tundetected_chromedriver!(No symbol) [0x509617]\n\tundetected_chromedriver!(No symbol) [0x4fd9b6]\n\tundetected_chromedriver!(No symbol) [0x4d0339]\n\tundetected_chromedriver!(No symbol) [0x4d10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x91fe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x91b459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x939bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x6d7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x6df23d+3367d]"
+  },
+  {
+    "hash": "3b28554eae7130672f85653adb6534e9",
+    "requirement": "sourcing agent",
+    "platform": "uipath",
+    "text": "ver!GetHandleVerifier [0x6d7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x6df23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x6c5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x6c5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x6ae48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "094f99a0ead5f997d95f25bd6e865119",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "[Enterprise MCP for Agentic AI | Built on the #1 iPaaS | Workato]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:59569\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x59c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0x59c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0x372100]\n\tundetected_chromedriver!(No symbol) [0x3ad752]\n\tundetected_chromedriver!(No symbol) [0x3ac77c]\n\tundetected_chromedriver!(No symbol) [0x3a28a5]\n\tundetected_chromedriver!(No symbol) [0x3a"
+  },
+  {
+    "hash": "4de6ce6dd52d95b2283078d0f8963feb",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "0x3ac77c]\n\tundetected_chromedriver!(No symbol) [0x3a28a5]\n\tundetected_chromedriver!(No symbol) [0x3a26c6]\n\tundetected_chromedriver!(No symbol) [0x3e9dff]\n\tundetected_chromedriver!(No symbol) [0x3e9617]\n\tundetected_chromedriver!(No symbol) [0x3dd9b6]\n\tundetected_chromedriver!(No symbol) [0x3b0339]\n\tundetected_chromedriver!(No symbol) [0x3b10f4]\n\tundetected_chromedriver!GetHandleVerifier [0x7ffe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x7fb459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x819bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0x5b7188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0x5bf23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0x5a5138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x5a5302+19742]\n\tundetected_chromedriver!GetHan"
+  },
+  {
+    "hash": "d1ce119ca55d729e8a3f28afbd6f4095",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "8+19578]\n\tundetected_chromedriver!GetHandleVerifier [0x5a5302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0x58e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Workato - Wikipedia]\nFrom Wikipedia, the free encyclopedia\n\nWorkato\nIndustry\nSoftware\nFounded\n2013\nFounder\nVijay Tella, Gautham Viswanathan, Harish Shetty, Dimitris Kogias\nHeadquarters\nMountain View, California\n, \nUnited States\nArea served\nGlobal\nWebsite\nwww\n.workato\n.com\n\nAmerican cloud integration platform company\n\nWorkato\n is an American multinational software company that provides a cloud-based platform for automation, integration, and \nartificial intelligence\n (AI) orchestration across applications"
+  },
+  {
+    "hash": "dc336c724193005387d902ccb00f3b72",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "rm for automation, integration, and \nartificial intelligence\n (AI) orchestration across applications, data, and systems.\n[\n1\n]\n[\n2\n]\n[\n3\n]\n The company was founded in 2013 and is headquartered in \nMountain View, California\n.\n\nHistory\n[\nedit\n]\n\nWorkato was founded in 2013 by Vijay Tella, Gautham Viswanathan, Harish Shetty, and Dimitris Kogias.\n[\n4\n]\n[\n5\n]\n It has received investment from entities including \nServiceNow\n, \nAltimeter Capital\n, \nInsight Partners\n, and \nRedpoint Ventures\n.\n[\n1\n]\n[\n2\n]\n\nThe company laid off about 10% of its workforce in 2023.\n[\n6\n]\n It opened offices in Dublin\n[\n7\n]\n and Singapore in 2021 and a data center in Australia in 2023.\n[\n8\n]\n\nIn March 2025, Workato acquired support automation provider DeepConverse for an undisclosed amount.\n[\n9\n]\n\nIn August 2025, Workato"
+  },
+  {
+    "hash": "ba96a5e5ffda3eb3744646dc1b8bec82",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "d support automation provider DeepConverse for an undisclosed amount.\n[\n9\n]\n\nIn August 2025, Workato acquired AI company XMAD.ai to strengthen its AI capabilities.\n[\n10\n]\n The company has raised over $200 million in Series E funding at a $5.7 billion valuation.\n[\n11\n]\n\nIn 2026, Workato launched its Enterprise \nModel Context Protocol\n (MCP) platform, enabling AI agents from tools such as \nClaude\n and \nChatGPT\n to securely access and act upon enterprise applications while following established governance and security protocols.\n[\n12\n]\n\nPlatform overview\n[\nedit\n]\n\nWorkato's platform is designed for integrating different systems and automating workflows. Key features include:\na drag-and-drop interface, enabling users to create data integrations, customize workflows, and publish \nAPIs\n,\n[\n13\n]"
+  },
+  {
+    "hash": "6d5714187fef5cebace2d17812a1bbbc",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "erface, enabling users to create data integrations, customize workflows, and publish \nAPIs\n,\n[\n13\n]\n \nlow-code/no-code\n capabilities with prebuilt connectors known as \"recipes\",\n[\n14\n]\n and real-time monitoring and management of data sharing between systems.\n[\n15\n]\n\nReferences\n[\nedit\n]\n\n^ \na\n \nb\n \nWilliams, Joe (2021-01-12). \n\"Workato Valued at $1.7 Billion in Funding Led by Altimeter, Insight\"\n. \nBloomberg\n. Archived from \nthe original\n on 2021-01-12.\n\n^ \na\n \nb\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \n\n^\n \nAnderson, Brian (2015-01-14). \n\"Drag-And-Drop App Integrations With Workato\"\n. \nDemand Gen Report\n. Retrieved \n2023-10-24\n.\n\n^\n \nRaghunatha, Akshata; Gururani, Pranjal (November 12, 2024). \n\"Seamless Automation and Integration with Workato's low-code, no-code iPaaS\"\n. Amazon"
+  },
+  {
+    "hash": "5487c060c5c77e068551c4445c16e42e",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "r 12, 2024). \n\"Seamless Automation and Integration with Workato's low-code, no-code iPaaS\"\n. Amazon Web Services.\n\n^\n \n\"Workato for Integration of Software Components\"\n. \nCodiumAI\n. Retrieved \n2023-10-24\n.\n\nRetrieved from \"\nhttps://en.wikipedia.org/w/index.php?title=Workato&oldid=1344678055\n\"\n\nCategories\n: \nSoftware companies based in California\nSoftware companies established in 2013\nHidden categories: \nCS1 maint: url-status\nArticles with short description\nShort description matches Wikidata\n\n---\n\n[Workato Services for Integration and Workflow Automation]\nWorkato Works. \nMost Workspaces Don't.\n\nYour recipes are brittle, your data is trapped in silos, and your \"automated\" business still requires manual effort. We will help you to fix it.\n\n50+ Workato Environments Optimized\n\n10+ Certified Exp"
+  },
+  {
+    "hash": "9c13ffc111a1f22efc9a4a57a0321445",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "es manual effort. We will help you to fix it.\n\n50+ Workato Environments Optimized\n\n10+ Certified Experts\n\nNo Black-box Recipes\n\nIt’s common, but this isn’t fine\n\nConnecting App A to B is simple, but without a strategic architecture, you are merely constructing a fragile foundation.\n\n70%\n\nDigital transformation projects fail due to poor integration architecture.\n\n$12M\n\nThe average annual cost of \"bad data\" for mid-market enterprises.\n\n85%\n\nThe automation potential is lost when recipes are built in silos.\n\nWorkato is the engine. We are the pit crew.\n\nSource: MuleSoft Connectivity Report, Gartner Data Integrity Study\n\nWorkato Services Designed for Scale\n\nWe don’t just connect apps. We build the nervous system of your business.\n\nArchitecture Audit & Roadmap\n\n We dive into your workspace to ide"
+  },
+  {
+    "hash": "92b4750ff866a272a1e5848e30e8dd29",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "nervous system of your business.\n\nArchitecture Audit & Roadmap\n\n We dive into your workspace to identify task-heavy recipes, security gaps, and logic bottlenecks. You get a prioritized plan to move from broken to best-in-class.\n \n\nLegacy iPaaS Migration\n\n Moving from Mulesoft, Boomi, or Zapier? We use a Zero-Grip framework to migrate your logic to Workato without losing data integrity or breaking downstream reports.\n \n\nAI Hallucinations\n\n You want to deploy Workato Genie. But if your connectors aren’t secured and your data schemas are a mess, Genie will act on bad information fast.\n \n\nData Hub Delusion\n\n Moving data from Point A to B is easy. Ensuring Point B understands the context of Point A is where most fail. Without a centralized data strategy, you're just creating silos.\n \n\nReady to"
+  },
+  {
+    "hash": "bfc6f4127494141928e2daa8078e6df2",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "t A is where most fail. Without a centralized data strategy, you're just creating silos.\n \n\nReady to fix the foundation?\nStop letting brittle integrations hold back your business growth. Let's build a scalable architecture together.\n\nBook Your Consultation →\n\nOutcome-Driven Plan and Execution\n\nBest for: Skimmers who want to know the bottom line immediately.\n\nUnified Data Ecosystem\n\nBring your apps, databases, and enterprise systems into one conversation. Our Workato integration services ensure your tech stack works as a single, unified unit, giving your team a \"single source of truth\" they can actually trust.\n\nAI Agent Orchestration (Genie)\n\nDeploy Workato Genie with confidence. We configure the Knowledge Vaults, define the guardrails, and build the \"Human-in-the-Loop\" checkpoints so your"
+  },
+  {
+    "hash": "5c76346eed9334ab9d6463010ad966b9",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "the Knowledge Vaults, define the guardrails, and build the \"Human-in-the-Loop\" checkpoints so your AI actually solves problems.\n\nReady to put AI to work?\n\nGenie is only as good as the foundation it stands on.\n\nDeploy Genie\n\nHuman-in-the-loop • Guardrails • Knowledge Vaults configured\n\nThe Unified Ecosystem\n\nIntegrations That Fix Broken Workflows\n\nJira\n\nWorkday\n\nDrive\n\nSalesforce\n\nSlack\n\nServiceNow\n\nSnowflake\n\nZendesk\n\nJira\n\nWorkday\n\nDrive\n\nSalesforce\n\nSlack\n\nServiceNow\n\nSnowflake\n\nZendesk\n\nSlack\n\nSalesforce\n\nDrive\n\nWorkday\n\nJira\n\nZendesk\n\nSnowflake\n\nServiceNow\n\nSlack\n\nSalesforce\n\nDrive\n\nWorkday\n\nJira\n\nZendesk\n\nSnowflake\n\nServiceNow\n\n*Connects with 1000+ applications. Visit the \nofficial Workato integration library\n for the complete list.\n\nWork with Us in a Way That Fits Your Goals\n\nWe are"
+  },
+  {
+    "hash": "6fa0d72d38a66bf019e77de820dbd5f0",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "kato integration library\n for the complete list.\n\nWork with Us in a Way That Fits Your Goals\n\nWe are independent. We build for ownership, not dependency. We care about your task ROI, getting the most business value for every task you pay for.\n\n01\n\nProjects\n\n Execute clearly defined Workato initiatives with a focused scope and timeline, delivering outcomes without long-term commitments.\n \n\nBest for:\n\nSolving specific challenges or delivering targeted outcomes.\n\nExamples:\n\nWorkato system integrations, workflow automation, and AI enablement.\n\n02\n\nManaged\n\n Ongoing management of your Workato environment to keep integrations and automations running smoothly as your business grows.\n \n\nBest for:\n\nTeams that need continuous support from experts.\n\nExamples:\n\nMonitoring, optimization, workflow enhan"
+  },
+  {
+    "hash": "7d0950b578550ead6cb074590f7d19f2",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "eams that need continuous support from experts.\n\nExamples:\n\nMonitoring, optimization, workflow enhancements, and issue resolution.\n\n03\n\nBOT Model\n\n A structured approach to building your internal Workato team and smoothly transitioning ownership.\n \n\nBest for:\n\nOrganizations looking to develop in-house expertise over time.\n\nExamples:\n\nTeam setup, training, full transition of operations.\n\nDiscuss Your Goal →\n\nLatest Insights\n\nApr 22, 2026\n\nFrom Doomprompting to Agent Script-A Translation Guide for Existing Agents\n\nApr 22, 2026\n\nApr 22, 2026\n\nApr 21, 2026\n\nInside Marketing Cloud Next: Platform, Editions, and Evolution\n\nApr 21, 2026\n\nApr 21, 2026\n\nApr 20, 2026\n\nWhy Only Salesforce Native Security Isn't Enough for Sensitive Data Protection\n\nApr 20, 2026\n\nApr 20, 2026\n\nApr 17, 2026\n\nSalesforce W"
+  },
+  {
+    "hash": "6e9cb43a291ded44f3d35cce90be2feb",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "y Isn't Enough for Sensitive Data Protection\n\nApr 20, 2026\n\nApr 20, 2026\n\nApr 17, 2026\n\nSalesforce Web Console: What It Is, Why It Exists, & Who It's Actually For?\n\nApr 17, 2026\n\nApr 17, 2026\n\nApr 17, 2026\n\nHubSpot AEO: The Star of Spring ’26\n\nApr 17, 2026\n\nApr 17, 2026\n\nApr 14, 2026\n\nHubSpot Cookie Consent Banner v2 Migration: What Breaks on May 11?\n\nApr 14, 2026\n\nApr 14, 2026\n\nApr 13, 2026\n\nSlack CRM: A Game Changer for Sales Teams To Manage Customers?\n\nApr 13, 2026\n\nApr 13, 2026\n\nApr 11, 2026\n\nSalesforce TDX 2026 (15–16 April): Key Topics, Sessions, and What to Expect\n\nApr 11, 2026\n\nApr 11, 2026\n\nApr 10, 2026\n\nStop Using Workarounds: How to Use HubSpot’s New 'No Owner' Logic to Clean Up Your Inbox Rotation\n\nApr 10, 2026\n\nApr 10, 2026\n\nExplore More\n\nLet’s Build Something That Works\n\nTell"
+  },
+  {
+    "hash": "8f7891504cd8b32c277a4b70573be6fe",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "our Inbox Rotation\n\nApr 10, 2026\n\nApr 10, 2026\n\nExplore More\n\nLet’s Build Something That Works\n\nTell us what’s failing. We’ll tell you how we’d fix it. No 40-page decks. Just a 30-minute deep dive into your actual workflow challenges.\n\nQuestions We Hear Before Every Engagement\n\nWorkato is an IPaaS and automation platform that connects your apps, workflows, and data. It enables AI-driven processes, seamless system integrations, and automated workflows, helping your teams work faster and smarter.\n\nWorkato provides enterprise-grade security, including role-based access, encryption, governance, and auditability, ensuring all workflows, integrations, and AI actions meet strict compliance and data privacy standards.\n\nA Genie is an enterprise AI agent that combines reasoning, actions, and orchest"
+  },
+  {
+    "hash": "f47d0ea43a4771a29e25f4f36e9fcf43",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "privacy standards.\n\nA Genie is an enterprise AI agent that combines reasoning, actions, and orchestration to execute secure, governed workflows across systems, delivering measurable, KPI-driven outcomes faster and more reliably.\n\nYes. Workato can seamlessly in\n\n---\n\n[Workato Launches Workato One Platform, Uniting AI and Industry’s ...]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:56215\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xf4c733+10b73]\n\tundetected_chromedri"
+  },
+  {
+    "hash": "b1e0cc229bd1da6a732ab7193589f5ca",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "eption\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xf4c733+10b73]\n\tundetected_chromedriver!GetHandleVerifier [0xf4c864+10ca4]\n\tundetected_chromedriver!(No symbol) [0xd22100]\n\tundetected_chromedriver!(No symbol) [0xd5d752]\n\tundetected_chromedriver!(No symbol) [0xd5c77c]\n\tundetected_chromedriver!(No symbol) [0xd528a5]\n\tundetected_chromedriver!(No symbol) [0xd526c6]\n\tundetected_chromedriver!(No symbol) [0xd99dff]\n\tundetected_chromedriver!(No symbol) [0xd99617]\n\tundetected_chromedriver!(No symbol) [0xd8d9b6]\n\tundetected_chromedriver!(No symbol) [0xd60339]\n\tundetected_chromedriver!(No symbol) [0xd610f4]\n\tundetected_chromedriver!GetHandleVerifier [0x11afe04+274244]\n\tundetected_chromedriver!GetHandleVerifier [0x11ab459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x11c9bd5+28e"
+  },
+  {
+    "hash": "3ad6e2b7f75c0891ae3076a8aab8b3a8",
+    "requirement": "asset maintenance agent",
+    "platform": "workato",
+    "text": "river!GetHandleVerifier [0x11ab459+26f899]\n\tundetected_chromedriver!GetHandleVerifier [0x11c9bd5+28e015]\n\tundetected_chromedriver!GetHandleVerifier [0xf67188+2b5c8]\n\tundetected_chromedriver!GetHandleVerifier [0xf6f23d+3367d]\n\tundetected_chromedriver!GetHandleVerifier [0xf55138+19578]\n\tundetected_chromedriver!GetHandleVerifier [0xf55302+19742]\n\tundetected_chromedriver!GetHandleVerifier [0xf3e48f+28cf]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "45aba51a346b67d7ba4c86929387646e",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "[Kubernetes Documentation]\nKubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (\nCNCF\n).\nUnderstand Kubernetes\nLearn about Kubernetes and its fundamental concepts.\nWhy Kubernetes?\nComponents of a cluster\nThe Kubernetes API\nObjects In Kubernetes\nkubectl\nContainers\nWorkloads and Pods\nTry Kubernetes\nFollow tutorials to learn how to deploy applications in Kubernetes.\nHello Minikube\nWalkthrough the basics\nStateless Example: PHP Guestbook with Redis\nStateful Example: Wordpress with Persistent Volumes\nSet up a K8s cluster\nGet Kubernetes running based on your resources and needs.\nLearning environment\nProduction environment\nInstall the"
+  },
+  {
+    "hash": "e7cf3444d11487c10e7344d26c2efa87",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "running based on your resources and needs.\nLearning environment\nProduction environment\nInstall the kubeadm setup tool\nMetrics\nLogs\nTraces\nSecuring a cluster\nkubeadm command reference\nLearn how to use Kubernetes\nLook up common tasks and how to perform them using a short sequence of steps.\nkubectl Quick Reference\nInstall kubectl\nConfigure access to clusters\nUse the Web UI Dashboard\nConfigure a Pod to Use a ConfigMap\nGetting help\nLook up reference information\nBrowse terminology, command line syntax, API resource types, and setup tool documentation.\nGlossary\nkubectl command line tool\nLabels, annotations and taints\nKubernetes API reference\nOverview of API\nFeature Gates\nContribute to Kubernetes\nFind out how you can help make Kubernetes better.\nContribute to Kubernetes\nContribute to documentatio"
+  },
+  {
+    "hash": "0ff43bbbed7d78bf2d56075cbb65f6a6",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ind out how you can help make Kubernetes better.\nContribute to Kubernetes\nContribute to documentation\nSuggest content improvements\nOpening a pull request\nDocumenting a feature for a release\nLocalizing the docs\nParticipating in SIG Docs\nViewing Site Analytics\nTraining\nGet certified in Kubernetes and make your cloud native projects successful!\nDownload Kubernetes\nInstall Kubernetes or upgrade to the newest version.\nAbout the documentation\nThis website contains documentation for the current and previous 4 versions of Kubernetes.\n\n---\n\n[Kubernetes]\nKubernetes\n, also known as K8s, is an open source system for automating deployment, scaling, and management of containerized applications.\nIt groups containers that make up an application into logical units for easy management and discovery. Kuberne"
+  },
+  {
+    "hash": "d8754ad649683bbfa1c9725aae92dbb1",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "containers that make up an application into logical units for easy management and discovery. Kubernetes builds upon \n15 years of experience of running production workloads at Google\n, combined with best-of-breed ideas and practices from the community.\nPlanet scale\nDesigned on the same principles that allow Google to run billions of containers a week, Kubernetes can scale without increasing your operations team.\nNever outgrow\nWhether testing locally or running a global enterprise, Kubernetes flexibility grows with you to deliver your applications consistently and easily no matter how complex your need is.\nRun K8s anywhere\nKubernetes is open source giving you the freedom to take advantage of on-premises, hybrid, or public cloud infrastructure, letting you effortlessly move workloads to where"
+  },
+  {
+    "hash": "5103943bf9f757d9f0bc01205eb957a1",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "n-premises, hybrid, or public cloud infrastructure, letting you effortlessly move workloads to where it matters to you.\nTo download Kubernetes, visit the \ndownload\n section.\nThe Absolute Beginner's Guide To Cloud Native\nby Kyle Penfound, Dagger & Cortney Nickerson, Kubeshop\n\nAttend upcoming KubeCon + CloudNativeCon events\nEurope\n (Amsterdam, Mar 23-26, 2026)\nNorth America\n (Salt Lake City, Nov 9-12, 2026)\nKubernetes Features\nAutomated rollouts and rollbacks\nKubernetes progressively rolls out changes to your application or its configuration, while monitoring application health to ensure it doesn't kill all your instances at the same time. If something goes wrong, Kubernetes will rollback the change for you. Take advantage of a growing ecosystem of deployment solutions.\nService discovery and"
+  },
+  {
+    "hash": "8d9ee7c355fb68f98c1af18cbc69bd6a",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "change for you. Take advantage of a growing ecosystem of deployment solutions.\nService discovery and load balancing\nNo need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.\nStorage orchestration\nAutomatically mount the storage system of your choice, whether from local storage, a public cloud provider, or a network storage system such as iSCSI or NFS.\nSecret and configuration management\nDeploy and update Secrets and application configuration without rebuilding your image and without exposing Secrets in your stack configuration.\nAutomatic bin packing\nAutomatically places containers based on their resource requirements and other constraints, while"
+  },
+  {
+    "hash": "553842c47195202ddfaa9c0b84d55d62",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ng\nAutomatically places containers based on their resource requirements and other constraints, while not sacrificing availability. Mix critical and best-effort workloads in order to drive up utilization and save even more resources.\nBatch execution\nIn addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.\nSelf-healing\nKubernetes restarts containers that crash, replaces entire Pods where needed, reattaches storage in response to wider failures, and can integrate with node autoscalers to self-heal even at the node level.\nHorizontal scaling\nScale your application up and down with a simple command, with a UI, or automatically based on CPU usage.\nVertical scaling\nAutomatically adjust resource requests and limits based on actual usage"
+  },
+  {
+    "hash": "8533f3e6ce5a7e543343be95d436f466",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "CPU usage.\nVertical scaling\nAutomatically adjust resource requests and limits based on actual usage patterns.\nIPv4/IPv6 dual-stack\nAllocation of IPv4 and IPv6 addresses to Pods and Services\nDesigned for extensibility\nAdd features to your Kubernetes cluster without changing upstream source code.\nCase Studies\n\"Kubernetes is a great platform for machine learning because it comes with all the scheduling and …\"\nRead more\n\"Kubernetes is a great solution for us. It allows us to rapidly iterate on our clients' demands.\n\"\nRead more\n\"We realized that we needed to learn Kubernetes better in order to fully use the potential of it. At …\"\nRead more\n\"We made the right decisions at the right time. Kubernetes and the cloud native technologies are now …\"\nRead more\nWe are a \nCNCF\n graduated project\n\n---\n\n[O"
+  },
+  {
+    "hash": "56fd19eaa44590262bea91bd25835c0c",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "es and the cloud native technologies are now …\"\nRead more\nWe are a \nCNCF\n graduated project\n\n---\n\n[Overview - Kubernetes]\nOverview\nKubernetes is a portable, extensible, open source platform for managing containerized workloads and services that facilitate both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.\nThis page is an overview of Kubernetes.\nThe name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an abbreviation\nresults from counting the eight letters between the \"K\" and the \"s\". Google open sourced the\nKubernetes project in 2014. Kubernetes combines\n\nover 15 years of Google's experience\n running\nproduction workloads at scale with best-of-breed ideas and practices fr"
+  },
+  {
+    "hash": "044a8e6b6a343a47ef67dca48b3775b8",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "Google's experience\n running\nproduction workloads at scale with best-of-breed ideas and practices from the community.\nWhy you need Kubernetes and what it can do\nContainers are a good way to bundle and run your applications. In a production\nenvironment, you need to manage the containers that run the applications and\nensure that there is no downtime. For example, if a container goes down, another\ncontainer needs to start. Wouldn't it be easier if this behavior was handled by a system?\nThat's how Kubernetes comes to the rescue! Kubernetes provides you with a framework\nto run distributed systems resiliently. It takes care of scaling and failover for\nyour application, provides deployment patterns, and more. For example: Kubernetes\ncan easily manage a canary deployment for your system.\nKubernete"
+  },
+  {
+    "hash": "75179ccd25c6219fba777398c3541c1d",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": ", and more. For example: Kubernetes\ncan easily manage a canary deployment for your system.\nKubernetes provides you with:\nService discovery and load balancing\n\nKubernetes can expose a container using a DNS name or its own IP address.\nIf traffic to a container is high, Kubernetes is able to load balance and distribute\nthe network traffic so that the deployment is stable.\nStorage orchestration\n\nKubernetes allows you to automatically mount a storage system of your choice, such as\nlocal storage, public cloud providers, and more.\nAutomated rollouts and rollbacks\n\nYou can describe the desired state for your deployed containers using Kubernetes,\nand it can change the actual state to the desired state at a controlled rate.\nFor example, you can automate Kubernetes to create new containers for your\nd"
+  },
+  {
+    "hash": "c971eeb0d4843957180307aedb5be195",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "e at a controlled rate.\nFor example, you can automate Kubernetes to create new containers for your\ndeployment, remove existing containers and adopt all their resources to the new container.\nAutomatic bin packing\n\nYou provide Kubernetes with a cluster of nodes that it can use to run containerized tasks.\nYou tell Kubernetes how much CPU and memory (RAM) each container needs. Kubernetes can fit\ncontainers onto your nodes to make the best use of your resources.\nSelf-healing\n\nKubernetes restarts containers that fail, replaces containers, kills containers that don't\nrespond to your user-defined health check, and doesn't advertise them to clients until they\nare ready to serve.\nSecret and configuration management\n\nKubernetes lets you store and manage sensitive information, such as passwords, OAuth"
+  },
+  {
+    "hash": "0df83643c13ff19f36483c27eacf041f",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ion management\n\nKubernetes lets you store and manage sensitive information, such as passwords, OAuth tokens,\nand SSH keys. You can deploy and update secrets and application configuration without\nrebuilding your container images, and without exposing secrets in your stack configuration.\nBatch execution\n\nIn addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.\nHorizontal scaling\n\nScale your application up and down with a simple command, with a UI, or automatically based on CPU usage.\nIPv4/IPv6 dual-stack\n\nAllocation of IPv4 and IPv6 addresses to Pods and Services\nDesigned for extensibility\n\nAdd features to your Kubernetes cluster without changing upstream source code.\nWhat Kubernetes is not\nKubernetes is not a traditional, all-in"
+  },
+  {
+    "hash": "38d347196b4697dd546166c7d4809fcf",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ithout changing upstream source code.\nWhat Kubernetes is not\nKubernetes is not a traditional, all-inclusive PaaS (Platform as a Service) system.\nSince Kubernetes operates at the container level rather than at the hardware level,\nit provides some generally applicable features common to PaaS offerings, such as\ndeployment, scaling, load balancing, and lets users integrate their logging, monitoring,\nand alerting solutions. However, Kubernetes is not monolithic, and these default solutions\nare optional and pluggable. Kubernetes provides the building blocks for building developer\nplatforms, but preserves user choice and flexibility where it is important.\nKubernetes:\nDoes not limit the types of applications supported. Kubernetes aims to support an\nextremely diverse variety of workloads, including"
+  },
+  {
+    "hash": "df2199ec3428d0d92c41759407e0ebda",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "lications supported. Kubernetes aims to support an\nextremely diverse variety of workloads, including stateless, stateful, and data-processing\nworkloads. If an application can run in a container, it should run great on Kubernetes.\nDoes not deploy source code and does not build your application. Continuous Integration,\nDelivery, and Deployment (CI/CD) workflows are determined by organization cultures and\npreferences as well as technical requirements.\nDoes not provide application-level services, such as middleware (for example, message buses),\ndata-processing frameworks (for example, Spark), databases (for example, MySQL), caches, nor\ncluster storage systems (for example, Ceph) as built-in services. Such components can run on\nKubernetes, and/or can be accessed by applications running on Kuber"
+  },
+  {
+    "hash": "916a745e04617b02e856bc3091a329f5",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ices. Such components can run on\nKubernetes, and/or can be accessed by applications running on Kubernetes through portable\nmechanisms, such as the \nOpen Service Broker\n.\nDoes not dictate logging, monitoring, or alerting solutions. It provides some integrations\nas proof of concept, and mechanisms to collect and export metrics.\nDoes not provide nor mandate a configuration language/system (for example, Jsonnet). It provides\na declarative API that may be targeted by arbitrary forms of declarative specifications.\nDoes not provide nor adopt any comprehensive machine configuration, maintenance, management,\nor self-healing systems.\nAdditionally, Kubernetes is not a mere orchestration system. In fact, it eliminates the need\nfor orchestration. The technical definition of orchestration is execution o"
+  },
+  {
+    "hash": "1829587877f6c15fcccd5ef29675da08",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": ", it eliminates the need\nfor orchestration. The technical definition of orchestration is execution of a defined workflow:\nfirst do A, then B, then C. In contrast, Kubernetes comprises a set of independent, composable\ncontrol processes that continuously drive the current state towards the provided desired state.\nIt shouldn't matter how you get from A to C. Centralized control is also not required. This\nresults in a system that is easier to use and more powerful, robust, resilient, and extensible.\nHistorical context fo\n\n---\n\n[Concepts - Kubernetes]\nConcepts\nThe Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your \ncluster\n, and helps you obtain a deeper understanding of how Kubernetes works.\nOverview\nKubernetes is a"
+  },
+  {
+    "hash": "b5174ec0e2e0ac1e8ca71471389c1218",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "ter\n, and helps you obtain a deeper understanding of how Kubernetes works.\nOverview\nKubernetes is a portable, extensible, open source platform for managing containerized workloads and services that facilitate both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.\nCluster Architecture\nThe architectural concepts behind Kubernetes.\nContainers\nTechnology for packaging an application along with its runtime dependencies.\nWorkloads\nUnderstand Pods, the smallest deployable compute object in Kubernetes, and the higher-level abstractions that help you to run them.\nServices, Load Balancing, and Networking\nConcepts and resources behind networking in Kubernetes.\nStorage\nWays to provide both long-term and te"
+  },
+  {
+    "hash": "239cce0ddb155f667094f17f795f32bf",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "oncepts and resources behind networking in Kubernetes.\nStorage\nWays to provide both long-term and temporary storage to Pods in your cluster.\nConfiguration\nResources that Kubernetes provides for configuring Pods.\nSecurity\nConcepts for keeping your cloud-native workload secure.\nPolicies\nManage security and best-practices with policies.\nScheduling, Preemption and Eviction\nCluster Administration\nLower-level detail relevant to creating or administering a Kubernetes cluster.\nWindows in Kubernetes\nKubernetes supports nodes that run Microsoft Windows.\nExtending Kubernetes\nDifferent ways to change the behavior of your Kubernetes cluster.\nFeedback\nWas this page helpful?\n\nThanks for the feedback. If you have a specific, answerable question about how to use Kubernetes, ask it on\n\nStack Overflow\n.\nOpen"
+  },
+  {
+    "hash": "f7894e8ce6a7da0d452451816ad387a9",
+    "requirement": "DPO agent",
+    "platform": "zbrain",
+    "text": "u have a specific, answerable question about how to use Kubernetes, ask it on\n\nStack Overflow\n.\nOpen an issue in the \nGitHub Repository\n if you want to\n\nreport a problem\n\nor\n\nsuggest an improvement\n.\nLast modified June 22, 2020 at 11:01 PM PST: \nAdd descriptions to Concept sections (3ff7312cff)"
+  },
+  {
+    "hash": "e9b1d6510397f16bdbb23aa339ff3df3",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "[Change Compatibility Mode Settings for Apps in Windows 10]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:63825\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x9bb373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x9bb4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x7c1e10]\n\tundetected_chromedriver!(No symbol) [0x7fd452]\n\tundetected_chromedriver!(No symbol) [0x7fc47c]\n\tundetected_chromedriver!(No symbol) [0x7f2575]\n\tundetected_chromedriver!(No symbol) [0x7f2396]"
+  },
+  {
+    "hash": "38672d36fb9cbe72ee21cee857903922",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "7c]\n\tundetected_chromedriver!(No symbol) [0x7f2575]\n\tundetected_chromedriver!(No symbol) [0x7f2396]\n\tundetected_chromedriver!(No symbol) [0x83956f]\n\tundetected_chromedriver!(No symbol) [0x838d87]\n\tundetected_chromedriver!(No symbol) [0x82d606]\n\tundetected_chromedriver!(No symbol) [0x800039]\n\tundetected_chromedriver!(No symbol) [0x800df4]\n\tundetected_chromedriver!GetHandleVerifier [0xc3ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xc3937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xc58215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x9d4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x9dc6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x9c3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x9c3e42+19022]\n\tundetected_chromedriver!GetHandleVer"
+  },
+  {
+    "hash": "9611e7ea8e0984bc8fe901397a4e429b",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "8]\n\tundetected_chromedriver!GetHandleVerifier [0x9c3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x9ad45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[How to Add or Remove Favorites Button in Microsoft Edge Chromiu…]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:51717\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xcdb373+10553]\n\tundetec"
+  },
+  {
+    "hash": "7f6110801a4d01681a8f952837392321",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "notcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xcdb373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0xcdb4a4+10684]\n\tundetected_chromedriver!(No symbol) [0xae1e10]\n\tundetected_chromedriver!(No symbol) [0xb1d452]\n\tundetected_chromedriver!(No symbol) [0xb1c47c]\n\tundetected_chromedriver!(No symbol) [0xb12575]\n\tundetected_chromedriver!(No symbol) [0xb12396]\n\tundetected_chromedriver!(No symbol) [0xb5956f]\n\tundetected_chromedriver!(No symbol) [0xb58d87]\n\tundetected_chromedriver!(No symbol) [0xb4d606]\n\tundetected_chromedriver!(No symbol) [0xb20039]\n\tundetected_chromedriver!(No symbol) [0xb20df4]\n\tundetected_chromedriver!GetHandleVerifier [0xf5ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xf5937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x"
+  },
+  {
+    "hash": "c8e08a2ebcb1c68fba249586603c2c77",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "cted_chromedriver!GetHandleVerifier [0xf5937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xf78215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0xcf4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0xcfc6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xce3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xce3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xccd45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Enable or Disable Changing Date and Time Formats in Windows]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61179\nfrom session not created: This version of ChromeDriver only supports"
+  },
+  {
+    "hash": "639fd22ad2c7ba5dd6a94e601dd87634",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "t to chrome at 127.0.0.1:61179\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x10db373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x10db4a4+10684]\n\tundetected_chromedriver!(No symbol) [0xee1e10]\n\tundetected_chromedriver!(No symbol) [0xf1d452]\n\tundetected_chromedriver!(No symbol) [0xf1c47c]\n\tundetected_chromedriver!(No symbol) [0xf12575]\n\tundetected_chromedriver!(No symbol) [0xf12396]\n\tundetected_chromedriver!(No symbol) [0xf5956f]\n\tundetected_chromedriver!(No symbol) [0xf58d87]\n\tundetected_chromedrive"
+  },
+  {
+    "hash": "7524315296a0d8e633b523722659cd0d",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "river!(No symbol) [0xf5956f]\n\tundetected_chromedriver!(No symbol) [0xf58d87]\n\tundetected_chromedriver!(No symbol) [0xf4d606]\n\tundetected_chromedriver!(No symbol) [0xf20039]\n\tundetected_chromedriver!(No symbol) [0xf20df4]\n\tundetected_chromedriver!GetHandleVerifier [0x135ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x135937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x1378215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x10f4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x10fc6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x10e3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x10e3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x10cd45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd"
+  },
+  {
+    "hash": "f273d32519c8f396b0b2f34376dcafcc",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Use AppLocker to Allow or Block Script Files in Windows 10]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:59304\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xc7b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0xc7b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0xa81e10]\n\tundetected_chrom"
+  },
+  {
+    "hash": "a115925fbeb224f521e53360ca7ec8c2",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "GetHandleVerifier [0xc7b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0xa81e10]\n\tundetected_chromedriver!(No symbol) [0xabd452]\n\tundetected_chromedriver!(No symbol) [0xabc47c]\n\tundetected_chromedriver!(No symbol) [0xab2575]\n\tundetected_chromedriver!(No symbol) [0xab2396]\n\tundetected_chromedriver!(No symbol) [0xaf956f]\n\tundetected_chromedriver!(No symbol) [0xaf8d87]\n\tundetected_chromedriver!(No symbol) [0xaed606]\n\tundetected_chromedriver!(No symbol) [0xac0039]\n\tundetected_chromedriver!(No symbol) [0xac0df4]\n\tundetected_chromedriver!GetHandleVerifier [0xefddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xef937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xf18215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0xc94c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier"
+  },
+  {
+    "hash": "57f484517fef64b323ddad482948eac5",
+    "requirement": "DPO agent",
+    "platform": "servicenow",
+    "text": "ndetected_chromedriver!GetHandleVerifier [0xc94c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0xc9c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xc83c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xc83e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xc6d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "0ab39ef869477897b78d0a45590f9460",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "[GitHub - vercel-labs/agent-browser: Browser automation CLI for AI ...]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61484\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xa7b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0xa7b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x881e10]\n\tundetected_chromedriver!(No symbol) [0x8bd452]\n\tundetected_chromedriver!(No symbol) [0x8bc47c]\n\tundetected_chromedriver!(No symbol) [0x8b2575]\n\tundetected_chromedriver!(No symbol)"
+  },
+  {
+    "hash": "9dc01f45d229af7e179efedacd1f7e8c",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "bol) [0x8bc47c]\n\tundetected_chromedriver!(No symbol) [0x8b2575]\n\tundetected_chromedriver!(No symbol) [0x8b2396]\n\tundetected_chromedriver!(No symbol) [0x8f956f]\n\tundetected_chromedriver!(No symbol) [0x8f8d87]\n\tundetected_chromedriver!(No symbol) [0x8ed606]\n\tundetected_chromedriver!(No symbol) [0x8c0039]\n\tundetected_chromedriver!(No symbol) [0x8c0df4]\n\tundetected_chromedriver!GetHandleVerifier [0xcfddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xcf937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xd18215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0xa94c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0xa9c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xa83c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xa83e42+19022]\n\tundetected_chromedriver!"
+  },
+  {
+    "hash": "62c25dc50d46f45c4ce07e9459d6f68d",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "xa83c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xa83e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xa6d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[automation · GitHub Topics · GitHub]\n#\n \n\n Automation\n \n\n \n\n Star\n\nAutomation describes a wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Automation has been achieved by various means including mechanical, hydraulic, pneumatic, electrical, electronic devices, and computers, usually in combination. Complicated systems, such as m"
+  },
+  {
+    "hash": "f554d5cd8f4fa288ab4975fa5c7c6f88",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "lectrical, electronic devices, and computers, usually in combination. Complicated systems, such as modern factories, airplanes, and ships typically use combinations of all of these techniques. The benefit of automation includes labor savings, reducing waste, savings in electricity costs, savings in material costs, and improvements to quality, accuracy, and precision.\n\n Here are\n 62,378 public repositories\n matching this topic...\n \n\n \nLanguage:\n\nAll\n\n \n\nFilter by language\n\n All\n \n62,378\n\n \n\n Python\n \n22,847\n\n \n\n JavaScript\n \n5,931\n\n \n\n Shell\n \n4,924\n\n \n\n TypeScript\n \n4,479\n\n \n\n HTML\n \n1,988\n\n \n\n Go\n \n1,754\n\n \n\n Java\n \n1,596\n\n \n\n C#\n \n1,404\n\n \n\n PowerShell\n \n1,369\n\n \n\n Jupyter Notebook\n \n960\n\n \n\n \nSort:\n\nMost stars\n\n \n\nSort options\n\n Most stars\n \n\n \n\n Fewest stars\n \n\n \n\n Most forks\n \n\n \n\n Fe"
+  },
+  {
+    "hash": "b97dbcb9903bcb72539300084bf29709",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "Sort:\n\nMost stars\n\n \n\nSort options\n\n Most stars\n \n\n \n\n Fewest stars\n \n\n \n\n Most forks\n \n\n \n\n Fewest forks\n \n\n \n\n Recently updated\n \n\n \n\n Least recently updated\n \n\n \n\nn8n-io\n /\n \nn8n\n \n\n \n\n Star\n\n \n185k\n\nFair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.\n\ncli\n \nworkflow\n \nintegrations\n \ndevelopment\n \nautomation\n \ntypescript\n \nai\n \nmcp\n \ndata-flow\n \nself-hosted\n \nipaas\n \napis\n \nworkflow-automation\n \nlow-code\n \nno-code\n \nintegration-framework\n \nn8n\n \nlow-code-platform\n \nmcp-server\n \nmcp-client\n \n\n Updated\n \nApr 23, 2026\n\nTypeScript\n\nlanggenius\n /\n \ndify\n \n\n \n\n Star\n\n \n139k\n\nProduction-ready platform for agentic workflow development.\n\npython\n \nagent\n \nworkflow\n \nautomation\n \nai\n \nmcp\n \nnextjs"
+  },
+  {
+    "hash": "6d268242da47929528a8ad890a045a5a",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "atform for agentic workflow development.\n\npython\n \nagent\n \nworkflow\n \nautomation\n \nai\n \nmcp\n \nnextjs\n \norchestration\n \ngemini\n \nopenai\n \ngpt\n \nlow-code\n \nno-code\n \nrag\n \ngpt-4\n \nllm\n \ngenai\n \nagentic-framework\n \nagentic-workflow\n \nagentic-ai\n \n\n Updated\n \nApr 23, 2026\n\nTypeScript\n\npuppeteer\n /\n \npuppeteer\n \n\n \n\n Star\n\n \n94.2k\n\nJavaScript API for Chrome and Firefox\n\ntesting\n \nfirefox\n \nchrome\n \nautomation\n \nweb\n \nchromium\n \ndeveloper-tools\n \nnode-module\n \nheadless-chrome\n \n\n Updated\n \nApr 22, 2026\n\nTypeScript\n\nmicrosoft\n /\n \nplaywright\n \n\n \n\n Star\n\n \n87.1k\n\nPlaywright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. \n\nelectron\n \njavascript\n \ntesting\n \nfirefox\n \nchrome\n \nautomation\n \nweb\n \ntest\n \nchromium\n \ntest-automation\n \ntes"
+  },
+  {
+    "hash": "9d048940c4a0bb85d5e83c4e24290e9a",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "javascript\n \ntesting\n \nfirefox\n \nchrome\n \nautomation\n \nweb\n \ntest\n \nchromium\n \ntest-automation\n \ntesting-tools\n \nwebkit\n \nend-to-end-testing\n \ne2e-testing\n \nplaywright\n \n\n Updated\n \nApr 23, 2026\n\nTypeScript\n\nharry0703\n /\n \nMoneyPrinterTurbo\n \n\n \n\n Star\n\n \n56.2k\n\n利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.\n\npython\n \nautomation\n \nai\n \nmoviepy\n \nshortvideo\n \ntiktok\n \nchatgpt\n \n\n Updated\n \nApr 22, 2026\n\nPython\n\nComposioHQ\n /\n \nawesome-claude-skills\n \n\n \n\n Star\n\n \n55.7k\n\nA curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows\n\nautomation\n \nskill\n \nmcp\n \nsaas\n \ncursor\n \ncodex\n \nworkflow-automation\n \nai-agents\n \nclaude\n \nrube\n \ngemini-cli\n \ncomposio\n \nantigravity\n \nagent-skills\n \nclaude-code\n \n\n Updated\n \nApr 21, 2026\n\nPython\n\nhug"
+  },
+  {
+    "hash": "fbfe9b2e4523510f050fe6f7db6e1424",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "ni-cli\n \ncomposio\n \nantigravity\n \nagent-skills\n \nclaude-code\n \n\n Updated\n \nApr 21, 2026\n\nPython\n\nhuginn\n /\n \nhuginn\n \n\n \n\n Star\n\n \n49.2k\n\nCreate agents that monitor and act on your behalf. Your agents are standing by!\n\nnotifications\n \nagent\n \nrss\n \nscraper\n \nautomation\n \ntwitter\n \nmonitoring\n \nhuginn\n \nfeed\n \nfeedgenerator\n \nwebscraping\n \ntwitter-streaming\n \n\n Updated\n \nApr 23, 2026\n\nRuby\n\napache\n /\n \nairflow\n \n\n \n\n Star\n\n \n45.1k\n\nApache Airflow - A platform to programmatically author, schedule, and monitor workflows\n\npython\n \nworkflow\n \ndata-science\n \nmachine-learning\n \nairflow\n \nautomation\n \netl\n \nworkflow-engine\n \nscheduler\n \napache\n \norchestration\n \ndata-engineering\n \ndata-integration\n \nelt\n \ndata-pipelines\n \ndag\n \napache-airflow\n \nmlops\n \nworkflow-orchestration\n \ndata-orchestrator"
+  },
+  {
+    "hash": "bc314cc86dabb4a12488704efdc8902c",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "elt\n \ndata-pipelines\n \ndag\n \napache-airflow\n \nmlops\n \nworkflow-orchestration\n \ndata-orchestrator\n \n\n Updated\n \nApr 23, 2026\n\nPython\n\nusebruno\n /\n \nbruno\n \n\n \n\n Star\n\n \n43.2k\n\nOpensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)\n\njavascript\n \ngit\n \ntesting\n \ngraphql-client\n \nautomation\n \nopensource\n \nrest-api\n \nhttp-client\n \nopenapi\n \napi-client\n \ndeveloper-tools\n \ntesting-tools\n \napi-testing\n \nopenapi3\n \n\n Updated\n \nApr 22, 2026\n\nJavaScript\n\nfastlane\n /\n \nfastlane\n \n\n \n\n Star\n\n \n41.4k\n\n🚀 The easiest way to automate building and releasing your iOS and Android apps\n\nruby\n \nandroid\n \nios\n \nscreenshots\n \nautomation\n \nmobile\n \ndeployment\n \nfastlane\n \napps\n \nhacktoberfest\n \n\n Updated\n \nApr 22, 2026\n\nRuby\n\nappsmithorg\n /\n \nappsmith\n \n\n \n\n Star\n\n \n39.7k\n\nPla"
+  },
+  {
+    "hash": "db3cf364997d1efab9bf02a01d4c081d",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "hacktoberfest\n \n\n Updated\n \nApr 22, 2026\n\nRuby\n\nappsmithorg\n /\n \nappsmith\n \n\n \n\n Star\n\n \n39.7k\n\nPlatform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.\n\nreact\n \njavascript\n \njava\n \ninternal-tools\n \ngui\n \nautomation\n \ncrud\n \ntypescript\n \nadmin-dashboard\n \nself-hosted\n \ngui-application\n \ndeveloper-tools\n \nworkflows\n \nhacktoberfest\n \nwebdevelopment\n \nlow-code\n \napp-builder\n \nadmin-panels\n \ncustom-internal\n \nlow-code-framework\n \n\n Updated\n \nApr 23, 2026\n\nTypeScript\n\nsantifer\n /\n \ncareer-ops\n \n\n \n\n Star\n\n \n38.6k\n\nAI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.\n\nresume\n \ncli\n \ngolang\n \nopen-source\n \nautomation\n \ncareer\n \ninterview-prep\n \njob-search\n \nclaude\n \nai-agent\n \nanthropi"
+  },
+  {
+    "hash": "2a76f1658011b0229909190836814bcf",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "ang\n \nopen-source\n \nautomation\n \ncareer\n \ninterview-prep\n \njob-search\n \nclaude\n \nai-agent\n \nanthropic\n \nclaude-code\n \n\n Updated\n \nApr 21, 2026\n\nJavaScript\n\nD4Vinci\n /\n \nScrapling\n \n\n \n\n Sponsor\n \n\n \n\n Star\n\n \n38.5k\n\n🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!\n\npython\n \ncrawler\n \ndata\n \nautomation\n \nai\n \nmcp\n \nscraping\n \ncrawling\n \nweb-scraper\n \nweb-scraping\n \nselectors\n \nxpath\n \ndata-extraction\n \nstealth\n \nwebscraping\n \ncrawling-python\n \nplaywright\n \nweb-scraping-python\n \nai-scraping\n \nmcp-server\n \n\n Updated\n \nApr 22, 2026\n\nPython\n\nwshobson\n /\n \nagents\n \n\n \n\n Sponsor\n \n\n \n\n Star\n\n \n34.1k\n\nIntelligent automation and multi-agent orchestration for Claude Code\n\nautoma\n\n---\n\n[GitHub - n8n-io/n8n: Fair-code workflow automation platfo"
+  },
+  {
+    "hash": "11e3c0b20caf4c1a9f8a201ae2eda0ef",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "chestration for Claude Code\n\nautoma\n\n---\n\n[GitHub - n8n-io/n8n: Fair-code workflow automation platform with …]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61508\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x45b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x45b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x261e10]\n\tundetected_chromedriver!(No symbol) [0x29d452]\n\tundetected_chromedriver!(No symbol) [0x29c47c]\n\tundetected_chromedriver!(No symbol) [0x29257"
+  },
+  {
+    "hash": "787f1c5b5256844af43f4478e7a1f050",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "9d452]\n\tundetected_chromedriver!(No symbol) [0x29c47c]\n\tundetected_chromedriver!(No symbol) [0x292575]\n\tundetected_chromedriver!(No symbol) [0x292396]\n\tundetected_chromedriver!(No symbol) [0x2d956f]\n\tundetected_chromedriver!(No symbol) [0x2d8d87]\n\tundetected_chromedriver!(No symbol) [0x2cd606]\n\tundetected_chromedriver!(No symbol) [0x2a0039]\n\tundetected_chromedriver!(No symbol) [0x2a0df4]\n\tundetected_chromedriver!GetHandleVerifier [0x6dddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x6d937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x6f8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x474c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x47c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x463c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x"
+  },
+  {
+    "hash": "79c7b89937737f0a1b492ba3e99e368c",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "ected_chromedriver!GetHandleVerifier [0x463c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x463e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x44d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[The rise in automation and what it means for the future]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:51828\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!G"
+  },
+  {
+    "hash": "8a7289deeb6c337c87459bb1bd64b0aa",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "n/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x94b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x94b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x751e10]\n\tundetected_chromedriver!(No symbol) [0x78d452]\n\tundetected_chromedriver!(No symbol) [0x78c47c]\n\tundetected_chromedriver!(No symbol) [0x782575]\n\tundetected_chromedriver!(No symbol) [0x782396]\n\tundetected_chromedriver!(No symbol) [0x7c956f]\n\tundetected_chromedriver!(No symbol) [0x7c8d87]\n\tundetected_chromedriver!(No symbol) [0x7bd606]\n\tundetected_chromedriver!(No symbol) [0x790039]\n\tundetected_chromedriver!(No symbol) [0x790df4]\n\tundetected_chromedriver!GetHandleVerifier [0xbcddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xbc937d+28e55d]\n\tund"
+  },
+  {
+    "hash": "8eecc0b17a1b82e985a8023c2c560660",
+    "requirement": "DPO agent",
+    "platform": "automation_anywhere",
+    "text": "etHandleVerifier [0xbcddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xbc937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xbe8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x964c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x96c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x953c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x953e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x93d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "d417bc8cadbd96917fcd4760c9ac5e44",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "[Welcoming the UiPath Community MVPs 2026]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61081\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xb8b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0xb8b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x991e10]\n\tundetected_chromedriver!(No symbol) [0x9cd452]\n\tundetected_chromedriver!(No symbol) [0x9cc47c]\n\tundetected_chromedriver!(No symbol) [0x9c2575]\n\tundetected_chromedriver!(No symbol) [0x9c2396]\n\tundetected_chrom"
+  },
+  {
+    "hash": "729234c5b0a1e6188c0a35aa1b6e2159",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "hromedriver!(No symbol) [0x9c2575]\n\tundetected_chromedriver!(No symbol) [0x9c2396]\n\tundetected_chromedriver!(No symbol) [0xa0956f]\n\tundetected_chromedriver!(No symbol) [0xa08d87]\n\tundetected_chromedriver!(No symbol) [0x9fd606]\n\tundetected_chromedriver!(No symbol) [0x9d0039]\n\tundetected_chromedriver!(No symbol) [0x9d0df4]\n\tundetected_chromedriver!GetHandleVerifier [0xe0ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xe0937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xe28215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0xba4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0xbac6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xb93c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xb93e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xb7d45f+2"
+  },
+  {
+    "hash": "3a9319cb50f5b5ba7da3f7ba15fd34c0",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "romedriver!GetHandleVerifier [0xb93e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xb7d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[UiPath ScreenPlay is now in Public Preview - try it today!]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52695\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x12ab373+10553]\n\tundetected_chromedriver!GetHa"
+  },
+  {
+    "hash": "e0bb1f15cad0a32370e372d0b2f5bbdd",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "cktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x12ab373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x12ab4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x10b1e10]\n\tundetected_chromedriver!(No symbol) [0x10ed452]\n\tundetected_chromedriver!(No symbol) [0x10ec47c]\n\tundetected_chromedriver!(No symbol) [0x10e2575]\n\tundetected_chromedriver!(No symbol) [0x10e2396]\n\tundetected_chromedriver!(No symbol) [0x112956f]\n\tundetected_chromedriver!(No symbol) [0x1128d87]\n\tundetected_chromedriver!(No symbol) [0x111d606]\n\tundetected_chromedriver!(No symbol) [0x10f0039]\n\tundetected_chromedriver!(No symbol) [0x10f0df4]\n\tundetected_chromedriver!GetHandleVerifier [0x152ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x152937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x1548215+2"
+  },
+  {
+    "hash": "293116cae85a05898ff28b48b3d88fbb",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "edriver!GetHandleVerifier [0x152937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x1548215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x12c4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x12cc6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x12b3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x12b3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x129d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[UiPath Community Forum]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:58012\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser versi"
+  },
+  {
+    "hash": "cd73ea9eeabe59e379193ceac5fe7a0c",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "ion not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x33b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x33b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x141e10]\n\tundetected_chromedriver!(No symbol) [0x17d452]\n\tundetected_chromedriver!(No symbol) [0x17c47c]\n\tundetected_chromedriver!(No symbol) [0x172575]\n\tundetected_chromedriver!(No symbol) [0x172396]\n\tundetected_chromedriver!(No symbol) [0x1b956f]\n\tundetected_chromedriver!(No symbol) [0x1b8d87]\n\tundetected_chromedriver!(No symbol) [0x1ad606]\n\tundetected_chrom"
+  },
+  {
+    "hash": "234157b88341013129224fc494999e46",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "hromedriver!(No symbol) [0x1b8d87]\n\tundetected_chromedriver!(No symbol) [0x1ad606]\n\tundetected_chromedriver!(No symbol) [0x180039]\n\tundetected_chromedriver!(No symbol) [0x180df4]\n\tundetected_chromedriver!GetHandleVerifier [0x5bddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x5b937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x5d8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x354c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x35c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x343c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x343e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x32d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath ["
+  },
+  {
+    "hash": "9cd88f1f50dd970ed3b28abd279e9f0d",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n\t(No symbol) [(nil)]\n]\n\n---\n\n[Studioにパッケージをダウンロードしようとするとできない場合があ …]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:51046\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x66b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x66b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x471e10]\n\tundetected_chromedriver!(No symbol) [0x4ad452]\n\tundetected_chromedr"
+  },
+  {
+    "hash": "e4f30276a2ced6130ae6ce9cc79d4e83",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "medriver!(No symbol) [0x471e10]\n\tundetected_chromedriver!(No symbol) [0x4ad452]\n\tundetected_chromedriver!(No symbol) [0x4ac47c]\n\tundetected_chromedriver!(No symbol) [0x4a2575]\n\tundetected_chromedriver!(No symbol) [0x4a2396]\n\tundetected_chromedriver!(No symbol) [0x4e956f]\n\tundetected_chromedriver!(No symbol) [0x4e8d87]\n\tundetected_chromedriver!(No symbol) [0x4dd606]\n\tundetected_chromedriver!(No symbol) [0x4b0039]\n\tundetected_chromedriver!(No symbol) [0x4b0df4]\n\tundetected_chromedriver!GetHandleVerifier [0x8eddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x8e937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x908215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x684c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x68c6fd+318dd]\n\tundetected_chromedriver!GetHandl"
+  },
+  {
+    "hash": "c971cf329982c9bd2eb3c765d82836cd",
+    "requirement": "DPO agent",
+    "platform": "uipath",
+    "text": "29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x68c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x673c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x673e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x65d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "0e5e2bc4594a51130e6aede27db4af0e",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "[ServiceNow - Put AI to Work]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:49910\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x61b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x61b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x421e10]\n\tundetected_chromedriver!(No symbol) [0x45d452]\n\tundetected_chromedriver!(No symbol) [0x45c47c]\n\tundetected_chromedriver!(No symbol) [0x452575]\n\tundetected_chromedriver!(No symbol) [0x452396]\n\tundetected_chromedriver!(No s"
+  },
+  {
+    "hash": "a7000a642e133981f79e94855cfe1f8e",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "No symbol) [0x452575]\n\tundetected_chromedriver!(No symbol) [0x452396]\n\tundetected_chromedriver!(No symbol) [0x49956f]\n\tundetected_chromedriver!(No symbol) [0x498d87]\n\tundetected_chromedriver!(No symbol) [0x48d606]\n\tundetected_chromedriver!(No symbol) [0x460039]\n\tundetected_chromedriver!(No symbol) [0x460df4]\n\tundetected_chromedriver!GetHandleVerifier [0x89ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x89937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x8b8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x634c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x63c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x623c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x623e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x60d45f+263f]\n\tKERNEL3"
+  },
+  {
+    "hash": "12755be264ee99ba402c6afba3fc733f",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "tHandleVerifier [0x623e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x60d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[What is ServiceNow?]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:51122\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x64b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x64b4a4+10684]\n\tundetected_chromedrive"
+  },
+  {
+    "hash": "3685f7e251808080f0a951dc2591aada",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "[0x64b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x64b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x451e10]\n\tundetected_chromedriver!(No symbol) [0x48d452]\n\tundetected_chromedriver!(No symbol) [0x48c47c]\n\tundetected_chromedriver!(No symbol) [0x482575]\n\tundetected_chromedriver!(No symbol) [0x482396]\n\tundetected_chromedriver!(No symbol) [0x4c956f]\n\tundetected_chromedriver!(No symbol) [0x4c8d87]\n\tundetected_chromedriver!(No symbol) [0x4bd606]\n\tundetected_chromedriver!(No symbol) [0x490039]\n\tundetected_chromedriver!(No symbol) [0x490df4]\n\tundetected_chromedriver!GetHandleVerifier [0x8cddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x8c937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x8e8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x664c18+29df8]"
+  },
+  {
+    "hash": "051fe2a7a71bed70db664a5239a6b143",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "ver!GetHandleVerifier [0x8e8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x664c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x66c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x653c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x653e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x63d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[ServiceNow とは- ServiceNow]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:60025\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: h"
+  },
+  {
+    "hash": "c76bef386286e04a1aa8b4bf4c71b084",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "rsion 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x40b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x40b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x211e10]\n\tundetected_chromedriver!(No symbol) [0x24d452]\n\tundetected_chromedriver!(No symbol) [0x24c47c]\n\tundetected_chromedriver!(No symbol) [0x242575]\n\tundetected_chromedriver!(No symbol) [0x242396]\n\tundetected_chromedriver!(No symbol) [0x28956f]\n\tundetected_chromedriver!(No symbol) [0x288d87]\n\tundetected_chromedriver!(No symbol) [0x27d606]\n\tundetected_chromedriver!(No symbol) [0x250039]\n\tundetected_chromedriver!(No symbol) ["
+  },
+  {
+    "hash": "25409c517e414c95ae2548608fde9915",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "l) [0x27d606]\n\tundetected_chromedriver!(No symbol) [0x250039]\n\tundetected_chromedriver!(No symbol) [0x250df4]\n\tundetected_chromedriver!GetHandleVerifier [0x68ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x68937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x6a8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x424c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x42c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x413c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x413e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x3fd45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[IT Service Management (ITSM) - ServiceNow]\n["
+  },
+  {
+    "hash": "aba87ad12797b25dc424c920f70feb4a",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "etAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[IT Service Management (ITSM) - ServiceNow]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52879\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x5eb373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x5eb4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x3f1e10]\n\tundetected_chromedriver!(No symbol) [0x42d452]\n\tundetected_chromedriver!(No symbol) [0x42c47c]\n\tundetected_chromedriver!(No symbol) [0x422575]\n\tundetect"
+  },
+  {
+    "hash": "6b17c812aba50a12aaadfab02d5b3f46",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "tected_chromedriver!(No symbol) [0x42c47c]\n\tundetected_chromedriver!(No symbol) [0x422575]\n\tundetected_chromedriver!(No symbol) [0x422396]\n\tundetected_chromedriver!(No symbol) [0x46956f]\n\tundetected_chromedriver!(No symbol) [0x468d87]\n\tundetected_chromedriver!(No symbol) [0x45d606]\n\tundetected_chromedriver!(No symbol) [0x430039]\n\tundetected_chromedriver!(No symbol) [0x430df4]\n\tundetected_chromedriver!GetHandleVerifier [0x86ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x86937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x888215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x604c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x60c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x5f3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x5f3e42+19022"
+  },
+  {
+    "hash": "efdb1a52662304a64dcb129fcff09314",
+    "requirement": "collections agent",
+    "platform": "servicenow",
+    "text": "driver!GetHandleVerifier [0x5f3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x5f3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x5dd45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  },
+  {
+    "hash": "0b8e2018be4bd2a7279efbbd77ab4fe6",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "[Welcoming the UiPath Community MVPs 2026]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:52016\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x8ab373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x8ab4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x6b1e10]\n\tundetected_chromedriver!(No symbol) [0x6ed452]\n\tundetected_chromedriver!(No symbol) [0x6ec47c]\n\tundetected_chromedriver!(No symbol) [0x6e2575]\n\tundetected_chromedriver!(No symbol) [0x6e2396]\n\tundetected_chrom"
+  },
+  {
+    "hash": "2ec4ef555d471715f99203d99c9ecdc1",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "hromedriver!(No symbol) [0x6e2575]\n\tundetected_chromedriver!(No symbol) [0x6e2396]\n\tundetected_chromedriver!(No symbol) [0x72956f]\n\tundetected_chromedriver!(No symbol) [0x728d87]\n\tundetected_chromedriver!(No symbol) [0x71d606]\n\tundetected_chromedriver!(No symbol) [0x6f0039]\n\tundetected_chromedriver!(No symbol) [0x6f0df4]\n\tundetected_chromedriver!GetHandleVerifier [0xb2ddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xb2937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xb48215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x8c4c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x8cc6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x8b3c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x8b3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x89d45f+2"
+  },
+  {
+    "hash": "2f3a71715f97c7a59d18bdab0e969bfb",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "romedriver!GetHandleVerifier [0x8b3e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x89d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[UiPath ScreenPlay is now in Public Preview - try it today!]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:53468\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x57b373+10553]\n\tundetected_chromedriver!GetHan"
+  },
+  {
+    "hash": "578948a8079a0be31c7855663d199f0d",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "cktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x57b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x57b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x381e10]\n\tundetected_chromedriver!(No symbol) [0x3bd452]\n\tundetected_chromedriver!(No symbol) [0x3bc47c]\n\tundetected_chromedriver!(No symbol) [0x3b2575]\n\tundetected_chromedriver!(No symbol) [0x3b2396]\n\tundetected_chromedriver!(No symbol) [0x3f956f]\n\tundetected_chromedriver!(No symbol) [0x3f8d87]\n\tundetected_chromedriver!(No symbol) [0x3ed606]\n\tundetected_chromedriver!(No symbol) [0x3c0039]\n\tundetected_chromedriver!(No symbol) [0x3c0df4]\n\tundetected_chromedriver!GetHandleVerifier [0x7fddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x7f937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x818215+2ad3f5]\n\tundetec"
+  },
+  {
+    "hash": "3bcc7961c15a388bf00fa08e7ad3ad3e",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "ndleVerifier [0x7f937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x818215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x594c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x59c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x583c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x583e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x56d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[UiPath Community Forum]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61087\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80;"
+  },
+  {
+    "hash": "cc9dbb33c14a29af547263b088369eb6",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "s version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x125b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0x125b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x1061e10]\n\tundetected_chromedriver!(No symbol) [0x109d452]\n\tundetected_chromedriver!(No symbol) [0x109c47c]\n\tundetected_chromedriver!(No symbol) [0x1092575]\n\tundetected_chromedriver!(No symbol) [0x1092396]\n\tundetected_chromedriver!(No symbol) [0x10d956f]\n\tundetected_chromedriver!(No symbol) [0x10d8d87]\n\tundetected_chromedriver!(No symbol) [0x10cd606]\n\tundetected_chromedriver!(N"
+  },
+  {
+    "hash": "95290129269e39fae959fcaf6c05bed1",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "(No symbol) [0x10d8d87]\n\tundetected_chromedriver!(No symbol) [0x10cd606]\n\tundetected_chromedriver!(No symbol) [0x10a0039]\n\tundetected_chromedriver!(No symbol) [0x10a0df4]\n\tundetected_chromedriver!GetHandleVerifier [0x14dddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0x14d937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0x14f8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0x1274c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0x127c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0x1263c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0x1263e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0x124d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath ["
+  },
+  {
+    "hash": "795e7dccc6b347d2f6dd50526190f694",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]\n\n---\n\n[Studioにパッケージをダウンロードしようとするとできない場合があ …]\n[selenium failed: Message: session not created: cannot connect to chrome at 127.0.0.1:54708\nfrom session not created: This version of ChromeDriver only supports Chrome version 147\nCurrent browser version is 146.0.7680.80; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xb3b373+10553]\n\tundetected_chromedriver!GetHandleVerifier [0xb3b4a4+10684]\n\tundetected_chromedriver!(No symbol) [0x941e10]\n\tundetected_chromedriver!(No symbol) [0x97d452]\n\tundetected_chromedriver!(No symbol) [0x9"
+  },
+  {
+    "hash": "6f990305189851a63700b525a682ab39",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "[0x941e10]\n\tundetected_chromedriver!(No symbol) [0x97d452]\n\tundetected_chromedriver!(No symbol) [0x97c47c]\n\tundetected_chromedriver!(No symbol) [0x972575]\n\tundetected_chromedriver!(No symbol) [0x972396]\n\tundetected_chromedriver!(No symbol) [0x9b956f]\n\tundetected_chromedriver!(No symbol) [0x9b8d87]\n\tundetected_chromedriver!(No symbol) [0x9ad606]\n\tundetected_chromedriver!(No symbol) [0x980039]\n\tundetected_chromedriver!(No symbol) [0x980df4]\n\tundetected_chromedriver!GetHandleVerifier [0xdbddb4+292f94]\n\tundetected_chromedriver!GetHandleVerifier [0xdb937d+28e55d]\n\tundetected_chromedriver!GetHandleVerifier [0xdd8215+2ad3f5]\n\tundetected_chromedriver!GetHandleVerifier [0xb54c18+29df8]\n\tundetected_chromedriver!GetHandleVerifier [0xb5c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xb43c78+1"
+  },
+  {
+    "hash": "754bd9f68e025bba5eb8e59a4421a5d9",
+    "requirement": "collections agent",
+    "platform": "uipath",
+    "text": "romedriver!GetHandleVerifier [0xb5c6fd+318dd]\n\tundetected_chromedriver!GetHandleVerifier [0xb43c78+18e58]\n\tundetected_chromedriver!GetHandleVerifier [0xb43e42+19022]\n\tundetected_chromedriver!GetHandleVerifier [0xb2d45f+263f]\n\tKERNEL32!BaseThreadInitThunk [0x74b75d49+19]\n\tntdll!RtlInitializeExceptionChain [0x776dd81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x776dd7a1+231]\n]"
+  }
+]

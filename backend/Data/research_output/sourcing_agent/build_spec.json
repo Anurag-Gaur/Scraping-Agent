@@ -1,0 +1,88 @@
+{
+  "requirement": "sourcing agent",
+  "build_spec": {
+    "agent_name": "Sourcing Agent",
+    "purpose": "Automate the process of finding and acquiring goods or services from external sources",
+    "target_user": "Procurement teams, supply chain managers, and business owners",
+    "core_capabilities": [
+      {
+        "capability": "Supplier discovery",
+        "description": "Identify potential suppliers based on product or service requirements"
+      },
+      {
+        "capability": "RFx management",
+        "description": "Create, send, and manage requests for information, proposals, or quotes"
+      },
+      {
+        "capability": "Contract management",
+        "description": "Negotiate, create, and manage contracts with suppliers"
+      },
+      {
+        "capability": "Order management",
+        "description": "Create, track, and manage orders with suppliers"
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Define sourcing requirements",
+        "detail": "Identify the goods or services needed and create a specification"
+      },
+      {
+        "step": 2,
+        "action": "Find potential suppliers",
+        "detail": "Use various channels such as online directories, social media, or industry events to find potential suppliers"
+      },
+      {
+        "step": 3,
+        "action": "Evaluate and shortlist suppliers",
+        "detail": "Assess the capabilities, pricing, and reputation of potential suppliers and shortlist the most suitable ones"
+      },
+      {
+        "step": 4,
+        "action": "Negotiate and contract with suppliers",
+        "detail": "Negotiate the terms and conditions of the contract, including pricing, delivery, and quality standards"
+      }
+    ],
+    "integrations": [
+      {
+        "system": "ERP systems",
+        "purpose": "Integrate with enterprise resource planning systems to manage procurement processes"
+      },
+      {
+        "system": "CRM systems",
+        "purpose": "Integrate with customer relationship management systems to manage supplier relationships"
+      }
+    ],
+    "data_inputs": [
+      "Sourcing requirements",
+      "Supplier information",
+      "Market data"
+    ],
+    "data_outputs": [
+      "Shortlisted suppliers",
+      "Contracted suppliers",
+      "Sourcing performance metrics"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Natural Language Processing (NLP) and Machine Learning (ML) algorithms",
+      "orchestration": "Business Process Management (BPM) tools",
+      "database": "Relational databases or NoSQL databases",
+      "integrations": [
+        "APIs",
+        "EDI",
+        "XML"
+      ]
+    },
+    "build_complexity": "medium",
+    "estimated_build_days": 120,
+    "what_competitors_have": "Competitors have basic sourcing agent capabilities, but they lack advanced features such as AI-powered supplier discovery and automated contract management",
+    "our_differentiation": "Our sourcing agent will utilize AI and ML to provide advanced supplier discovery, automated contract management, and real-time market data analysis to optimize the sourcing process"
+  },
+  "competitor_summary": {
+    "zbrain": "ZBrain has a basic sourcing agent capability, but it lacks advanced features and integrations",
+    "relevanceai": "RelevanceAI has a more advanced sourcing agent capability, but it is limited to specific industries and lacks customization options",
+    "crewai": "Not available",
+    "others": "Other competitors have similar limitations and lack the advanced features and customization options that our sourcing agent will provide"
+  }
+}

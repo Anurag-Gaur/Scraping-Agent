@@ -1,0 +1,99 @@
+{
+  "requirement": "accounts receivable agent",
+  "build_spec": {
+    "agent_name": "Accounts Receivable Agent",
+    "purpose": "To automate and streamline the accounts receivable process, ensuring timely and accurate payment collection from customers.",
+    "target_user": "Accounting and finance teams, business owners, and financial managers.",
+    "core_capabilities": [
+      {
+        "capability": "Invoice Management",
+        "description": "Generate, send, and track invoices to customers."
+      },
+      {
+        "capability": "Payment Tracking",
+        "description": "Monitor and record payments received from customers."
+      },
+      {
+        "capability": "Automated Reminders",
+        "description": "Send automated reminders to customers for overdue payments."
+      },
+      {
+        "capability": "Dispute Resolution",
+        "description": "Facilitate communication with customers to resolve payment disputes."
+      },
+      {
+        "capability": "Reporting and Analytics",
+        "description": "Provide insights and reports on accounts receivable performance and trends."
+      }
+    ],
+    "workflow_steps": [
+      {
+        "step": 1,
+        "action": "Invoice Generation",
+        "detail": "Generate invoices based on customer orders and send them via email or mail."
+      },
+      {
+        "step": 2,
+        "action": "Payment Tracking",
+        "detail": "Monitor and record payments received from customers, updating the system accordingly."
+      },
+      {
+        "step": 3,
+        "action": "Automated Reminders",
+        "detail": "Send automated reminders to customers for overdue payments, with escalating reminders for persistent overdue accounts."
+      },
+      {
+        "step": 4,
+        "action": "Dispute Resolution",
+        "detail": "Facilitate communication with customers to resolve payment disputes, with options for adjusting invoices or providing refunds."
+      },
+      {
+        "step": 5,
+        "action": "Reporting and Analytics",
+        "detail": "Provide regular reports and insights on accounts receivable performance, including metrics such as days sales outstanding (DSO) and payment trends."
+      }
+    ],
+    "integrations": [
+      {
+        "system": "ERP Systems",
+        "purpose": "Integrate with enterprise resource planning systems to access customer data and order information."
+      },
+      {
+        "system": "Accounting Software",
+        "purpose": "Integrate with accounting software to update financial records and reconcile payments."
+      },
+      {
+        "system": "Customer Relationship Management (CRM) Systems",
+        "purpose": "Integrate with CRM systems to access customer contact information and interaction history."
+      }
+    ],
+    "data_inputs": [
+      "Customer Data",
+      "Order Information",
+      "Payment History"
+    ],
+    "data_outputs": [
+      "Invoice Records",
+      "Payment Records",
+      "Accounts Receivable Reports"
+    ],
+    "suggested_tech_stack": {
+      "llm": "Language Model for generating invoices and automated reminders",
+      "orchestration": "Workflow orchestration tool for managing the accounts receivable process",
+      "database": "Relational database for storing customer data, invoice records, and payment history",
+      "integrations": [
+        "APIs for integrating with ERP systems, accounting software, and CRM systems"
+      ]
+    },
+    "build_complexity": "medium",
+    "estimated_build_days": 120,
+    "what_competitors_have": "Basic invoice management and payment tracking capabilities, with limited automation and reporting features.",
+    "our_differentiation": "Advanced automation capabilities, including automated reminders and dispute resolution, with real-time reporting and analytics."
+  },
+  "competitor_summary": {
+    "zbrain": "No relevant information found.",
+    "relevanceai": "No relevant information found, but provides a platform for discussing and sharing information on various topics, including software and technology.",
+    "crewai": "No relevant information found.",
+    "others": "No other competitors found with relevant information on accounts receivable agents."
+  }
+}
